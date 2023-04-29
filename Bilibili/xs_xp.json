@@ -1,0 +1,51 @@
+﻿{
+  "cookie": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/cookie.txt",
+  "classes": [
+    {
+      "type_name": "赵本山",
+      "type_id": "赵本山"
+    },
+    {
+      "type_name": "二人转",
+      "type_id": "二人转"
+    },
+    {
+      "type_name": "德云社",
+      "type_id": "德云社"
+    },
+    {
+      "type_name": "郭德纲",
+      "type_id": "郭德纲"
+    },
+    {
+      "type_name": "岳云鹏",
+      "type_id": "岳云鹏"
+    },
+    {
+      "type_name": "宋小宝",
+      "type_id": "宋小宝"
+    },
+    {
+      "type_name": "青曲社",
+      "type_id": "青曲社"
+    },
+	    {
+      "type_name": "春晚小品",
+      "type_id": "春晚小品"
+    },
+    {
+      "type_name": "屌丝男士",
+      "type_id": "屌丝男士"
+    },
+    {
+      "type_name": "开心麻花",
+      "type_id": "开心麻花"
+    },
+    {
+      "type_name": "评书",
+      "type_id": "评书"
+    }
+  ],
+  "filter": {
+  }
+}
