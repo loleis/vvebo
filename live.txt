@@ -80,6 +80,7 @@ CCTV-4K,http://159.75.85.63:8280/cctv4k.php
 卫视频道,#genre#
 北京卫视,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
 北京卫视,http://tv.fanmingming.com/api/?id=bjws
+北京卫视,https://node1.olelive.com:6443/live/BJHD/hls.m3u8
 北京卫视,http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8
 北京卫视,http://222.175.159.226:808/hls/45/index.m3u8
 北京卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225673/index.m3u8
@@ -88,6 +89,7 @@ CCTV-4K,http://159.75.85.63:8280/cctv4k.php
 浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://tv.fanmingming.com/api/?id=zjws
+浙江卫视,https://node1.olelive.com:6443/live/ZJHD/hls.m3u8
 浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
 浙江卫视,http://222.175.159.226:808/hls/42/index.m3u8
 浙江卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225744/index.m3u8
@@ -101,6 +103,7 @@ CCTV-4K,http://159.75.85.63:8280/cctv4k.php
 
 东方卫视,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
 东方卫视,http://tv.fanmingming.com/api/?id=dfws
+东方卫视,https://node1.olelive.com:6443/live/DFHD/hls.m3u8
 东方卫视,http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8
 东方卫视,http://tvmvip110.club/bs.php?id=22
 东方卫视,http://222.175.159.226:808/hls/43/index.m3u8
@@ -109,6 +112,7 @@ CCTV-4K,http://159.75.85.63:8280/cctv4k.php
 
 湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,http://tv.fanmingming.com/api/?id=hunws
+湖南卫视,https://node1.olelive.com:6443/live/HNHD/hls.m3u8
 湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
 湖南卫视,http://222.175.159.226:808/hls/41/index.m3u8
 湖南卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225745/index.m3u8
