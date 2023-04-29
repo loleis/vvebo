@@ -4,7 +4,7 @@
 "sites":[{"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_DiDuan","name":"影视┃欧美日韩","type":3,"api":"csp_Ddrk","playerType":2,"searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"filterable":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPathFilter/JRSKan.json"},
-{"key":"csp_Bili","name":"哔哩┃相声小品","type":3,"api":"csp_Bili","playerType":1,"searchable":0,"filterable":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/Bilibili/xs_xp.json"},
+{"key":"csp_Bili","name":"哔哩┃相声小品","type":3,"api":"csp_Bili","playerType":1,"searchable":0,"filterable":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/Bilibili/%e7%9b%b8%e5%a3%b0%e5%b0%8f%e5%93%81.json"},
 {"key":"drpy_js_斗鱼直播","name":"斗鱼┃斗鱼直播","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/douyu.js"},
 {"key":"drpy_js_虎牙直播","name":"虎牙┃虎牙直播","type":3,"api":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js","playerType":1,"searchable":0,"changeable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/huya.js"},
 {"key":"csp_农民影视","name":"影视┃农民影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQHiker/Nmys.json"},
