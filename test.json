@@ -1,4 +1,4 @@
-{"spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/3.jar",
+{"spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/1.jar",
 "sites":[
         {
             "key": "csp_77",
@@ -21,7 +21,7 @@
         },
         {
             "key": "csp_Czsapp",
-            "name": "📔厂长┃直连",
+            "name": "📔厂长┃1",
             "type": 3,
             "api": "csp_Czsapp",
             "playerType": 2,
@@ -31,7 +31,7 @@
         },
         {
             "key": "csp_DiDuan",
-            "name": "⏮️低端┃直连",
+            "name": "⏮️低端┃1",
             "type": 3,
             "api": "csp_Ddrk",
             "searchable": 1,
