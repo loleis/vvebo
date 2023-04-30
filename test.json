@@ -2,5 +2,6 @@
 "sites":[
     {"key":"360影视","name":"💘360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
     {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"csp_AppTT2","name":"图图图","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"酷云77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}]
 }
