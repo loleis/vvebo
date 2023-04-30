@@ -1,7 +1,14 @@
-{"spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/1.jar",
-"sites":[
-    {"key":"360影视","name":"💘360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-    {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_AppTT2","name":"影视┃图图影视","type":3,"api":"csp_AppTT2","playerType":2,"searchable":1,"filterable":1,"changeable":1,"ext":"http://45.207.9.101:7798"},
-    {"key":"酷云77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}]
-}
+{"spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/YSC0425fix.jar;md5;6A2662212081642E4F4537AE40FB26DC",
+
+"sites":[{"key":"csp_xpath_mp4dycl","name":"🔖MP4电影(XPCL)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/mp4dycl.json"},
+{"key":"csp_xpath_cls","name":"🔖磁力搜索(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/cls.json"},
+{"key":"csp_xpath_音范丝磁力","name":"🎤音范丝磁力(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/yinfans.json"},
+{"key":"csp_xpath_网络搜集源03","name":"🎱在线之家(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXP/zxzj2.json"},
+{"key":"csp_XYQH_布蕾蓝光影城","name":"🚧布蕾蓝光影城(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/布蕾蓝光影城.json"},
+{"key":"csp_XBPQ_布蕾影院","name":"🧀布蕾影院(xBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XBPQ/布蕾影视.json"},
+{"key":"csp_XYQH_北川影视","name":"🚧北川影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/北川影视.json"},
+{"key":"csp_XYQH_小狗影视","name":"🚧小狗影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/xiaogou.json"},
+{"key":"csp_XYQH_伊雪湾","name":"🚧伊雪湾(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/伊雪湾.json"},
+{"key":"csp_XBPQ_胖虎影视","name":"🧀胖虎影视(xBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XBPQ/胖虎影视.json"},
+{"key":"csp_XBPQ_91影院","name":"🧀91影院(xBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XBPQ/91影院.json"},
+{"key":"drpy_小品网","name":"📁小品网[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/DRPY/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/小品网.js"}]}
