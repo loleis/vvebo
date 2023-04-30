@@ -99,7 +99,7 @@
             "key": "csp_DiDuan",
             "name": "⏮️低端┃直连",
             "type": 3,
-            "api": "csp_Ddys",
+            "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
