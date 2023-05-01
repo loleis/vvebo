@@ -140,17 +140,11 @@ CCTV-4K,http://159.75.85.63:8280/cctv4k.php
 
 
 体育频道,#genre#
-五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
-劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
-劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
 劲爆体育,http://suixiaobin.dsmynas.net:5666/ghyx.php?id=JinBaoTiYuHD_6000
 广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
-广东体育,http://120.84.96.73:808/hls/22/index.m3u8
-广东体育,https://live.v1.mk/api/itouch.php?id=1184
 广东体育,http://r.jdshipin.com/LiYdg
 纬来体育,http://123.51.230.108:18509/.m3u8
-纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 JJ斗地主,http://hdltctwk.douyucdn2.cn/live/488743rAHScWyyII.xs
 JJ斗地主,http://mmitv.top/pltv/huya.php?id=14079954
 JJ斗地主,http://epg.112114.xyz/douyu/488743
