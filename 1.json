@@ -4,13 +4,13 @@
 
     {
         "key": "csp_Mianfeiyy",
-        "name": "影视┃免费电影",
+        "name": "影视91电影1",
         "type": 3,
         "api": "csp_XBiu",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://www.6080dy3.com/vodshow/{cateId}--------{catePg}---.html"
+        "ext": "https://91free.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"
     },
 	{
         "key": "csp_Voflix",
