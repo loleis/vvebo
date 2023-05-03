@@ -1,9 +1,10 @@
 {
     "spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/T00700.jar",
 "sites":[
+
     {
-        "key": "csp_1",
-        "name": "1",
+        "key": "csp_Mianfeiyy",
+        "name": "影视┃免费电影",
         "type": 3,
         "api": "csp_XBiu",
         "searchable": 1,
@@ -12,28 +13,8 @@
         "ext": "https://mianfeiyy.com/index.php/vod/show/id/{cateId}/page/{catePg}html;aspbudtkm"
     },
 	{
-        "key": "csp_2",
-        "name": "2",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://shdy3.com/list/{cateId}-{catePg}.html"
-    },
-    {
-        "key": "csp_3",
-        "name": "3",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://shdy3.com/list/{cateId}-{catePg}.html"
-    },
-	{
-        "key": "csp_4",
-        "name": "4",
+        "key": "csp_Voflix",
+        "name": "影视┃沃利克斯",
         "type": 3,
         "api": "csp_XBiu",
         "searchable": 1,
@@ -41,39 +22,9 @@
         "filterable": 1,
         "ext": "https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
     },
-    {
-        "key": "csp_5",
-        "name": "5",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "http://www.panghuys.com/vodshow/{cateId}{area}{by}{class}{lang}{letter}{year}/page/{catePg}.html"
-    },
 	{
-        "key": "csp_6",
-        "name": "6",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://qqmzpt.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html"
-    },
-    {
-        "key": "csp_7",
-        "name": "7",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://www.zxzj.pro/vodshow/{cateId}--------{catePg}---.html"
-    },
-	{
-        "key": "csp_8",
-        "name": "8",
+        "key": "csp_Smdyy",
+        "name": "影视┃神马电影",
         "type": 3,
         "api": "csp_XBiu",
         "searchable": 1,
@@ -81,19 +32,9 @@
         "filterable": 1,
         "ext": "https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"
     },
-    {
-        "key": "csp_9",
-        "name": "9",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://auete.org/{cateId}/index{catePg}.html"
-    },
 	{
-        "key": "csp_10",
-        "name": "10",
+        "key": "csp_Libvio",
+        "name": "影视┃利奥影视",
         "type": 3,
         "api": "csp_XBiu",
         "searchable": 1,
@@ -101,39 +42,9 @@
         "filterable": 1,
         "ext": "https://www.libvio.fun/type/{cateId}-{catePg}.html"
     },
-    {
-        "key": "csp_11",
-        "name": "11",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"
-    },
 	{
-        "key": "csp_12",
-        "name": "12",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
-    },
-    {
-        "key": "csp_13",
-        "name": "13",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://fositv.com/vod____show/{cateId}-{area}-{by}------{catePg}---{year}.html"
-    },
-	{
-        "key": "csp_14",
-        "name": "14",
+        "key": "csp_Kkkk",
+        "name": "影视┃核桃影院",
         "type": 3,
         "api": "csp_XBiu",
         "searchable": 1,
@@ -142,28 +53,8 @@
         "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
     },
     {
-        "key": "csp_15",
-        "name": "15",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://www.rr520.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
-    },
-	{
-        "key": "csp_16",
-        "name": "16",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://hei19.com/catalog?column={cateId}&sort=1&per_page=72&page={catePg}"
-    },
-    {
-        "key": "csp_17",
-        "name": "17",
+        "key": "csp_Dadagui",
+        "name": "影视┃达达影视",
         "type": 3,
         "api": "csp_XBiu",
         "searchable": 1,
@@ -172,28 +63,8 @@
         "ext": "https://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
     },
 	{
-        "key": "csp_18",
-        "name": "18",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "http://www.huamaotv.com/list/{cateId}_{catePg}_desc_{by}_{class}_{year}_{letter}_{area}_{lang}.html"
-    },
-    {
-        "key": "csp_19",
-        "name": "19",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://www.bttwoo.com/{cateId}/page/{catePg}"
-    },
-	{
-        "key": "csp_20",
-        "name": "20",
+        "key": "csp_Dadou",
+        "name": "影视┃大豆影视",
         "type": 3,
         "api": "csp_XBiu",
         "searchable": 1,
