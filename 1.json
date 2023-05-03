@@ -1,9 +1,9 @@
 {
-    "spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/1.jar",
+    "spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/222.jar",
 "sites":[
             {
             "key": "csp_Czsapp",
-            "name": "📔厂长┃直连",
+            "name": "📔厂长┃直连2",
             "type": 3,
             "api": "csp_Czsapp",
             "playerType": 2,
