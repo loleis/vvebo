@@ -1,6 +1,16 @@
 {
     "spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/1.jar",
 "sites":[
+            {
+            "key": "csp_Czsapp",
+            "name": "📔厂长┃直连",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {"key":"csp_DiDuan","name":"影视┃低端影视1","type":3,"api":"csp_Ddrk","playerType":2,"searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Ddys","name":"影视┃低端影视2","type":3,"api":"csp_Ddys","playerType":2,"searchable":1,"filterable":1,"changeable":1},
 {"key":"csp_Kuaikan","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"filterable":1,"changeable":1},
