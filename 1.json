@@ -126,6 +126,16 @@
 		"changeable": 1,
 		"ext": "https://mianfeiyy.com/index.php/vod/show/id/{cateId}/page/{catePg}html;aspbudtkm"
 	}, {
+		"key": "csp_Aidi",
+		"name": "影视┃爱迪影院",
+		"type": 3,
+		"api": "csp_XBiu",
+		"playerType": 2,
+		"searchable": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "https://aidi.tv/show/{cateId}--------{catePg}---.html"
+	},{
 		"key": "csp_Voflix",
 		"name": "影视┃沃利克斯",
 		"type": 3,
