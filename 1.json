@@ -123,16 +123,6 @@
 		"filterable": 1,
 		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e8%b5%b7%e9%a3%9e%e5%bd%b1%e9%99%a2.js"
 	}, {
-		"key": "dr_1010dy3",
-		"name": "极速┃双十电影",
-		"type": 3,
-		"api": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js",
-		"playerType": 2,
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e5%8f%8c%e5%8d%81%e7%94%b5%e5%bd%b1.js"
-	}, {
 		"key": "csp_Kan8",
 		"name": "极速┃不卡影视",
 		"type": 3,
