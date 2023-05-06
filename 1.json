@@ -1,10 +1,10 @@
 {
 	"spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/20230504.jar",
 "sites": [{
-		"key": "csp_APPTT2",
+		"key": "csp_AppTT2",
 		"name": "推荐┃图图影视",
 		"type": 3,
-		"api": "csp_APPTT2",
+		"api": "csp_AppTT2",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
