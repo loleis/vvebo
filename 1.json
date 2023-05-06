@@ -1,0 +1,12 @@
+{
+	"spider": "https://agit.ai/00700/vvebo/raw/branch/main/Spider/20230504.jar",
+"sites": [{
+		"key": "csp_APPTT2",
+		"name": "推荐┃图图影视",
+		"type": 3,
+		"api": "csp_APPTT2",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext":"http://45.207.9.101:7771"
+	}]}
