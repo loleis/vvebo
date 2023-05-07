@@ -3,7 +3,7 @@
 "sites": [
 	 {
 		"key": "csp_Bili",
-		"name": "哔哩┃相声小品2",
+		"name": "哔哩┃相声小品",
 		"type": 3,
 		"api": "csp_Bili",
 		"playerType": 1,
