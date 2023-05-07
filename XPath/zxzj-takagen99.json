@@ -11,7 +11,7 @@
     "动漫": "6"
   },
   // Home Summary ================================================  
-  "homeVodNode": "//div[@class='stui-vodlist__box']",
+  "homeVodNode": "//div[@class='stui-vodlist clearfix']",
   "homeVodName": "/a/@title",
   "homeVodId": "/a/@href",
   "homeVodIdR": "/detail/(\\w+)",
