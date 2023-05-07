@@ -10,7 +10,7 @@ var rule = {
         'User-Agent':'MOBILE_UA'
     },
     timeout:5000,
-    class_url:'2&3&4&25',
+    class_url:'1&2&3&4&25',
     class_name:'快乐儿歌&儿童故事&国学经典&启蒙教育',
     //class_name:'#page-viewport&&ul&&li;.text&&Text;a&&href;/(.*)',
     cate_exclude:'应用',
