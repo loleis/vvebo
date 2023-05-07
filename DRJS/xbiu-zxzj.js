@@ -1,9 +1,9 @@
 {
 	// 所有的选填字段都可以不填，程序会自己去猜，不一定能猜得出来，猜不出来的得自己去补规则
 	//(必填) 主页地址，建议填list段中的url,程序会从url中提取homeUrl, url中至少要包含{cateId}和{catePg}才能被识别
-	// https://www.zxzj.pro/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html
-	// https://www.zxzj.pro/list/{cateId}-{catePg}.html
-	"homeUrl": "https://www.zxzj.pro/",
+	// https://www.zxzjhd.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html
+	// https://www.zxzjhd.com/list/{cateId}-{catePg}.html
+	"homeUrl": "https://www.zxzjhd.com/",
 	//(选填) http请求需要的header，一般就填个UA
 	"header":{
 		"User-Agent":"Mozilla/5.0 (Linux; Android 8.1.0; ALP-AL00 Build/HUAWEIALP-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 T7/10.13 baiduboxapp/10.13.0.11 (Baidu; P1 8.1.0)"
@@ -21,11 +21,11 @@
 	"list":{
 		//(选填) 当前页面解析区域截取，程序会从截取后的数据中查找各字段，这里只是演示，按实际需求填写
 		"region":["<html>", "</html>"],
-		//"url": "https://www.zxzj.pro/list/{cateId}-{catePg}.html",
+		//"url": "https://www.zxzjhd.com/list/{cateId}-{catePg}.html",
 		//(选填) 列表页的页面地址，具体规则和xpath一致，不存在在里会使用homeUrl，但是homeUrl必须是带{cateId}\{catePg}的这个格式
-		"url": "https://www.zxzj.pro/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html", 
+		"url": "https://www.zxzjhd.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html", 
 		// (选填) 有的网站分类的第一页和后面的页url规则不同，可以这样指定具体的catePg 对应的url
-		//"1": "https://www.zxzj.pro/vodshow/{cateId}-{area}--{class}-----1---{year}.html",
+		//"1": "https://www.zxzjhd.com/vodshow/{cateId}-{area}--{class}-----1---{year}.html",
 		// 视频ID，列表页不能正常显示一般都是这个规则不对
 		// 爬虫使用JSONArray来获取相关字段内容，JSONArray中共用到5个参数，具体说明：
 		// 1 要获取字段的前缀，必填
@@ -46,7 +46,7 @@
 		//(选填) 当前页面解析区域截取，程序会从截取后的数据中查找各字段，这里只是演示，按实际需求填写
 		"region":["<html>", "</html>"],
 		//(选填) 详情页的url, 不存在时会使用list.vod_id进行推算
-		"url": "https://www.zxzj.pro/detail/{vid}.html",
+		"url": "https://www.zxzjhd.com/detail/{vid}.html",
 		//(选填) 视频名
 		"vod_name":["<h1 class=\"title\">", "</h1>"],  
 		//(选填) 视频图片
@@ -73,7 +73,7 @@
 		//(选填) 当sort为1时会对找到播放列表进行倒序
 		"sort": 0,
 		 //(选填) 播放列表页的url, 一般都和详情页的地址一样，有部分网站的播放页和详情页不同时才填这个字段
-		"url": "https://www.zxzj.pro/detail/{vid}.html",
+		"url": "https://www.zxzjhd.com/detail/{vid}.html",
 		//(选填) 播放url的字段规则，这里需要回溯到包含单个播放源全部play_url的html节点
 		"vod_play_url": ["i><a href=\"/video/", "\"",-7,0,2],
 		//(选填) 播放地址的名称
@@ -81,7 +81,7 @@
 		//(选填) 播放源的名称，如果有的话需要，查找到的播放列表会根据该字段的内容顺序进行排序
 		"vod_play_from": [ 
 			// 如果播放源的名称不能保证在页面上是唯一的
-			["<h3>播放线路5</h3>"
+			["<h3>播放线路5</h3>", "在线之家(别名)"]
 		]
 	},
 	//(选填) 播放页，不用去管，用来尝试解析直链的
@@ -96,7 +96,7 @@
 		//(选填) 当前页面解析区域截取，程序会从截取后的数据中查找各字段，这里只是演示，按实际需求填写
 		"region":["<html>", "</html>"],
 		// 搜索页的URL
-		"url": "https://zxzj.vip/vodsearch/-------------.html?wd={wd}", 
+		"url": "https://zxzjhd.com/vodsearch/-------------.html?wd={wd}", 
 		//(选填) 视频ID
 		"vod_id": ["/detail/", ".html",0,0,3],
 		//(选填) 视频名
