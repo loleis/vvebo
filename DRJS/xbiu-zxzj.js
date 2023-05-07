@@ -6,7 +6,7 @@
 	"homeUrl": "https://www.zxzjhd.com/",
 	//(选填) http请求需要的header，一般就填个UA
 	"header":{
-		"User-Agent":"Mozilla/5.0 (Linux; Android 8.1.0; ALP-AL00 Build/HUAWEIALP-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 T7/10.13 baiduboxapp/10.13.0.11 (Baidu; P1 8.1.0)"
+		"User-Agent":"Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1"
 	},
 	//(选填) 分类名
 	"cateManual": {
