@@ -24,7 +24,7 @@
 		"region":["<html>", "</html>"],
 		//"url": "https://www.zxzjhd.com/list/{cateId}-{catePg}.html",
 		//(选填) 列表页的页面地址，具体规则和xpath一致，不存在在里会使用homeUrl，但是homeUrl必须是带{cateId}\{catePg}的这个格式
-		"url": "https://www.zxzjhd.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html", 
+		"url": "https://www.zxzjhd.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
 		// (选填) 有的网站分类的第一页和后面的页url规则不同，可以这样指定具体的catePg 对应的url
 		//"1": "https://www.zxzjhd.com/vodshow/{cateId}-{area}--{class}-----1---{year}.html",
 		// 视频ID，列表页不能正常显示一般都是这个规则不对
