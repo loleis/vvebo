@@ -15,7 +15,7 @@
       "key": "xp_zxzj",
       "name": "在线之家1",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
