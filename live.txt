@@ -85,10 +85,10 @@ CCTV13,http://39.134.115.163:8080/TVOD/88888910/224/3221225638/index.m3u8
 CCTV13,http://124.220.17.172/as.php?id=13
 CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
 
-CCTV-4K,http://cfss.cc/api/ysp/cctv4k.m3u8
-CCTV-4K,http://tv.fanmingming.com/api/?id=cctv4k
-CCTV-4K,https://v.bjiptv.eu.org/4.php
-CCTV-4K,http://159.75.85.63:8280/cctv4k.php
+CCTV4K,http://cfss.cc/api/ysp/cctv4k.m3u8
+CCTV4K,http://tv.fanmingming.com/api/?id=cctv4k
+CCTV4K,https://v.bjiptv.eu.org/4.php
+CCTV4K,http://159.75.85.63:8280/cctv4k.php
 
 
 卫视频道,#genre#
