@@ -2,7 +2,6 @@
 CCTV1,http://cfss.cc/api/ysp/cctv1.m3u8
 CCTV1,http://cntv.sbs/live?id=cctv1
 CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-CCTV1,http://tv.fanmingming.com/api/?id=cctv1
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
@@ -12,7 +11,6 @@ CCTV1,http://39.134.115.163:8080/TVOD/88888910/224/3221225618/index.m3u8
 CCTV2,http://cfss.cc/api/ysp/cctv2.m3u8
 CCTV2,http://cntv.sbs/live?id=cctv2
 CCTV2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-CCTV2,http://tv.fanmingming.com/api/?id=cctv2
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
@@ -22,7 +20,6 @@ CCTV2,http://39.134.115.163:8080/TVOD/88888910/224/3221225619/index.m3u8
 CCTV5,http://cfss.cc/api/ysp/cctv5.m3u8
 CCTV5,http://cntv.sbs/live?id=cctv5
 CCTV5,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-CCTV5,http://tv.fanmingming.com/api/?id=cctv5
 CCTV5,http://cm.wshls.homecdn.com/live/11eec.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
@@ -37,8 +34,6 @@ CCTV5,http://222.240.82.92:9901/tsfile/live/0005_1.m3u8
 CCTV5+,http://cfss.cc/api/ysp/cctv5p.m3u8
 CCTV5+,http://cntv.sbs/live?id=cctv5p
 CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-CCTV5+,http://tv.fanmingming.com/api/?id=cctv5p
-CCTV5+,http://tv.fanmingming.com/api/?id=cctv5p2
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV5+,http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
 CCTV5+,http://huth.2288.org:4000/udp/235.254.199.121:7980
@@ -52,7 +47,6 @@ CCTV5+,http://222.175.159.226:808/hls/6/index.m3u8
 CCTV6,http://cfss.cc/api/ysp/cctv6.m3u8
 CCTV6,http://cntv.sbs/live?id=cctv6
 CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-CCTV6,http://tv.fanmingming.com/api/?id=cctv6
 CCTV6,http://cm.wshls.homecdn.com/live/11ee8.m3u8
 CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 CCTV6,http://125.210.152.19:9120/live/hzgq-cctv6gq-h264.m3u8
@@ -65,7 +59,6 @@ CCTV6,http://39.134.115.163:8080/TVOD/88888910/224/3221225650/index.m3u8
 CCTV12,http://cfss.cc/api/ysp/cctv12.m3u8
 CCTV12,http://cntv.sbs/live?id=cctv12
 CCTV12,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-CCTV12,http://tv.fanmingming.com/api/?id=cctv12
 CCTV12,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
 CCTV12,http://125.210.152.19:9120/live/hzgq-cctv12gq-h264.m3u8
 CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
@@ -76,7 +69,6 @@ CCTV12,http://218.29.55.44:808/hls/12/index.m3u8
 CCTV13,http://cfss.cc/api/ysp/cctv13.m3u8
 CCTV13,http://cntv.sbs/live?id=cctv13
 CCTV13,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV13,http://tv.fanmingming.com/api/?id=cctv13
 CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV13,http://125.210.152.19:9120/live/hzgq-cctvnewsgq-h264.m3u8
 CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
@@ -86,7 +78,6 @@ CCTV13,http://124.220.17.172/as.php?id=13
 CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
 
 CCTV4K,http://cfss.cc/api/ysp/cctv4k.m3u8
-CCTV4K,http://tv.fanmingming.com/api/?id=cctv4k
 CCTV4K,https://v.bjiptv.eu.org/4.php
 CCTV4K,http://159.75.85.63:8280/cctv4k.php
 
