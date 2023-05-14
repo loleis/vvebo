@@ -86,7 +86,6 @@ CCTV4K,http://159.75.85.63:8280/cctv4k.php
 北京卫视,http://cfss.cc/api/ysp/bjws.m3u8
 北京卫视,http://cntv.sbs/live?id=bjws
 北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-北京卫视,http://tv.fanmingming.com/api/?id=bjws
 北京卫视,https://node1.olelive.com:6443/live/BJHD/hls.m3u8
 北京卫视,http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8
 北京卫视,http://222.175.159.226:808/hls/45/index.m3u8
@@ -97,7 +96,6 @@ CCTV4K,http://159.75.85.63:8280/cctv4k.php
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://cntv.sbs/live?id=zjws
 浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-浙江卫视,http://tv.fanmingming.com/api/?id=zjws
 浙江卫视,https://node1.olelive.com:6443/live/ZJHD/hls.m3u8
 浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
 浙江卫视,http://222.175.159.226:808/hls/42/index.m3u8
@@ -107,7 +105,6 @@ CCTV4K,http://159.75.85.63:8280/cctv4k.php
 江苏卫视,http://cfss.cc/api/ysp/jsws.m3u8
 江苏卫视,http://cntv.sbs/live?id=jsws
 江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-江苏卫视,http://tv.fanmingming.com/api/?id=jsws
 江苏卫视,http://125.210.152.19:9120/live/hzgq-jswsgq-h264.m3u8
 江苏卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225743/index.m3u8
 江苏卫视,http://113.117.74.17:808/hls/44/index.m3u8
@@ -115,7 +112,6 @@ CCTV4K,http://159.75.85.63:8280/cctv4k.php
 东方卫视,http://cfss.cc/api/ysp/dfws.m3u8
 东方卫视,http://cntv.sbs/live?id=dfws
 东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/800000
-东方卫视,http://tv.fanmingming.com/api/?id=dfws
 东方卫视,https://node1.olelive.com:6443/live/DFHD/hls.m3u8
 东方卫视,http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8
 东方卫视,http://tvmvip110.club/bs.php?id=22
@@ -126,7 +122,6 @@ CCTV4K,http://159.75.85.63:8280/cctv4k.php
 湖南卫视,http://cfss.cc/api/ysp/hunws.m3u8
 湖南卫视,http://cntv.sbs/live?id=hunws
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-湖南卫视,http://tv.fanmingming.com/api/?id=hunws
 湖南卫视,https://node1.olelive.com:6443/live/HNHD/hls.m3u8
 湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
 湖南卫视,http://222.175.159.226:808/hls/41/index.m3u8
@@ -136,7 +131,6 @@ CCTV4K,http://159.75.85.63:8280/cctv4k.php
 广东卫视,http://cfss.cc/api/ysp/gdws.m3u8
 广东卫视,http://cntv.sbs/live?id=gdws
 广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-广东卫视,http://tv.fanmingming.com/api/?id=gdws
 广东卫视,http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8
 广东卫视,http://222.175.159.226:808/hls/52/index.m3u8
 广东卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225742/index.m3u8
@@ -145,7 +139,6 @@ CCTV4K,http://159.75.85.63:8280/cctv4k.php
 辽宁卫视,http://cfss.cc/api/ysp/lnws.m3u8
 辽宁卫视,http://cntv.sbs/live?id=lnws
 辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-辽宁卫视,http://tv.fanmingming.com/api/?id=lnws
 辽宁卫视,http://125.210.152.19:9120/live/hzgq-lnwsgq-h264.m3u8
 辽宁卫视,http://222.175.159.226:808/hls/48/index.m3u8
 辽宁卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225735/index.m3u8
