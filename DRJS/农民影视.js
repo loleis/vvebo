@@ -1,6 +1,6 @@
 var rule={
 	title:'农民影视',
-	host:'https://v.xiangdao.me',
+	host:'https://v.cnmcom.com',
 	url:'/vod-list-id-fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}-pg-fypage-order--by-{{fl.by}}-class-0-year-{{fl.year}}-letter--area-{{fl.area}}-lang-',
