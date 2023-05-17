@@ -170,8 +170,6 @@ TVBS新闻,rtmp://9wv7.mine.nu/sat/tv551
 东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 东森新闻,http://116.11.140.104:8181/tsfile/live/1201_1.m3u8
 
-中视新闻,http://162.19.247.76:22222/live/zhongshi/index.m3u8
-
 民视新闻,http://123.51.230.108:18663/.m3u8
 民视新闻,http://61.221.81.93:8078/hls/40/80/ftvnews.m3u8
 
