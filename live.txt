@@ -145,10 +145,36 @@ CCTV4K,http://159.75.85.63:8280/cctv4k.php
 辽宁卫视,http://113.117.74.17:808/hls/54/index.m3u8
 辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
 
+
+港台频道,#genre#
+凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
+凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,http://2022.stream-link.org/live/58079722
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
+凤凰中文,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+凤凰中文,rtmp://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8	
+凤凰中文,http://120.84.96.82:808/hls/29/index.m3u8
+
+凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
+凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://2022.stream-link.org/live/433059615
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
+凤凰资讯,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,rtmp://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4
+凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰资讯,http://120.84.96.82:808/hls/28/index.m3u8
+
+TVBS新闻,rtmp://9wv7.mine.nu/sat/tv551
+
+东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
+东森新闻,http://116.11.140.104:8181/tsfile/live/1201_1.m3u8
+
+中视新闻,http://162.19.247.76:22222/live/zhongshi/index.m3u8
+
+民视新闻,http://123.51.230.108:18663/.m3u8
+民视新闻,http://61.221.81.93:8078/hls/40/80/ftvnews.m3u8
+民视新闻,http://162.19.247.76:22222/live/bch100/index.m3u8
 
 
 体育频道,#genre#
@@ -159,12 +185,18 @@ CCTV4K,http://159.75.85.63:8280/cctv4k.php
 五星体育,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://cfyy.cc/Cf/bstv/jbtyhd.m3u8
+劲爆体育,http://wabc.ml/gudou.php?id=jinbaotiyuHD_7000
 劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 劲爆体育,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 劲爆体育,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://suixiaobin.dsmynas.net:5666/ghyx.php?id=JinBaoTiYuHD_6000
 广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
+广东体育,http://171.38.79.141:8181/tsfile/live/1088_1.m3u8
+广东体育,http://wabc.ml/gudou.php?id=1413
+广东体育,http://120.84.96.33:808/hls/22/index.m3u8
+纬来体育,rtmp://9wv7.mine.nu/sat/tv721
+纬来体育,rtmp://218.32.29.20/sat/tv721
 纬来体育,http://123.51.230.108:18509/.m3u8
 JJ斗地主,http://hdltctwk.douyucdn2.cn/live/488743rAHScWyyII.xs
 JJ斗地主,http://mmitv.top/pltv/huya.php?id=14079954
