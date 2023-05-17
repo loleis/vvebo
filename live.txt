@@ -166,6 +166,7 @@ CCTV4K,http://159.75.85.63:8280/cctv4k.php
 凤凰资讯,http://120.84.96.82:808/hls/28/index.m3u8
 
 TVBS新闻,rtmp://9wv7.mine.nu/sat/tv551
+TVBS新闻,rtmp://218.32.29.20/sat/tv551
 
 东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 东森新闻,http://116.11.140.104:8181/tsfile/live/1201_1.m3u8
