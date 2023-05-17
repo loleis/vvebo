@@ -174,7 +174,6 @@ TVBS新闻,rtmp://9wv7.mine.nu/sat/tv551
 
 民视新闻,http://123.51.230.108:18663/.m3u8
 民视新闻,http://61.221.81.93:8078/hls/40/80/ftvnews.m3u8
-民视新闻,http://162.19.247.76:22222/live/bch100/index.m3u8
 
 
 体育频道,#genre#
