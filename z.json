@@ -1,152 +1,62 @@
 [
   {
-    "id": 1,
-    "key": "mahuazy",
-    "name": "麻花资源",
-    "api": "https://api.1080zyku.com/inc/apijson.php",
-    "download": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
-    "id": 2,
-    "key": "88zyw",
-    "name": "88 影视资源站",
+    "key": "9aef0df8-c830-5877-8f13-43ca18661c55",
+    "name": "量子资源",
     "api": "https://cj.lziapi.com/api.php/provide/vod",
     "download": "",
+    "jiexiUrl": "",
     "group": "默认",
+    "status": true,
     "isActive": true,
-    "status": "可用"
+    "type": 1,
+    "id": 61
   },
   {
-    "id": 3,
-    "key": "apibdzy",
-    "name": "百度云资源",
+    "key": "28393120-9d11-5110-b209-c925b2d8f87e",
+    "name": "非凡资源",
     "api": "http://cj.ffzyapi.com/api.php/provide/vod",
     "download": "",
+    "jiexiUrl": "",
     "group": "默认",
+    "status": true,
     "isActive": true,
-    "status": "可用"
+    "type": 1,
+    "id": 62
   },
   {
-    "id": 4,
-    "key": "mbo",
-    "name": "秒播资源",
-    "api": "http://kuying.kuyouk.top:9528/api.php",
+    "key": "aa5c853f-fe67-58de-918c-d8d026bb69d8",
+    "name": "高清资源",
+    "api": "https://api.1080zyku.com/inc/apijson.php",
     "download": "",
+    "jiexiUrl": "https://vip.zykbf.com/?url=",
     "group": "默认",
+    "status": true,
     "isActive": true,
-    "status": "可用"
+    "type": 1,
+    "id": 63
   },
   {
-    "id": 5,
-    "key": "zuidazy",
-    "name": "最大资源网",
-    "api": "http://vod.dmdh.top:5680/api.php",
+    "key": "ac4fc630-f29e-5b1f-803e-940a39cfff50",
+    "name": "鸡婆资源",
+    "api": "https://www.jipo.tv/api.php/provide/vod",
     "download": "",
+    "jiexiUrl": "",
     "group": "默认",
+    "status": true,
     "isActive": true,
-    "status": "可用"
+    "type": 1,
+    "id": 64
   },
   {
-    "id": 6,
-    "key": "123ku",
-    "name": "123 资源",
-    "api": "http://cms.maoyingshi.cc/api.php",
+    "key": "7be81ec5-edc0-5214-ab95-6a2f10fb31fc",
+    "name": "明帝资源",
+    "api": "https://ys.md214.cn/api.php/provide/vod",
     "download": "",
+    "jiexiUrl": "",
     "group": "默认",
+    "status": true,
     "isActive": true,
-    "status": "可用"
-  },
-  {
-    "id": 7,
-    "key": "okzy",
-    "name": "OK 资源网",
-    "api": "http://cj.okzy.tv/inc/api.php",
-    "download": "http://cj.okzy.tv/inc/apidown.php",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
-    "id": 8,
-    "key": "kuyunzy",
-    "name": "酷云资源",
-    "api": "http://caiji.kuyun98.com/inc/ldg_api.php",
-    "download": "http://caiji.kuyun98.com/inc/apidown.php",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
-    "id": 9,
-    "key": "kubozy",
-    "name": "酷播资源",
-    "api": "http://api.kbzyapi.com/inc/api.php",
-    "download": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
-    "id": 10,
-    "key": "yongjiuzy",
-    "name": "永久资源",
-    "api": "http://cj.yongjiuzyw.com/inc/api.php",
-    "download": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
-    "id": 11,
-    "key": "rrzy",
-    "name": "人人资源",
-    "api": "https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
-    "download": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
-    "id": 12,
-    "key": "bbkdj",
-    "name": "步步高顶尖资源网",
-    "api": "http://api.bbkdj.com/api",
-    "download": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
-    "id": 13,
-    "key": "zuixinzy",
-    "name": "最新资源",
-    "api": "http://api.zuixinapi.com/inc/api.php",
-    "download": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
-    "id": 14,
-    "key": "subo988",
-    "name": "速播资源站",
-    "api": "https://www.subo988.com/inc/api.php",
-    "download": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
-    "id": 15,
-    "key": "1886zy",
-    "name": "1886 资源",
-    "api": "http://cj.1886zy.co/inc/api.php",
-    "download": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
+    "type": 1,
+    "id": 65
   }
 ]
