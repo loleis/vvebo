@@ -1,1 +1,62 @@
-[{"id":1,"key":"快播云","name":"快播云","api":"http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/","jiexiUrl":"https://jx.7kjx.com/?url=","group":"默认","isActive":true}]
+[
+  {
+    "id": 1,
+    "key": "mahuazy",
+    "name": "高清资源",
+    "api": "https://api.1080zyku.com/inc/apijson.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 2,
+    "key": "88zyw",
+    "name": "量子资源",
+    "api": "https://cj.lziapi.com/api.php/provide/vod",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 3,
+    "key": "apibdzy",
+    "name": "非凡资源",
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 4,
+    "key": "mbo",
+    "name": "酷影蓝光",
+    "api": "http://kuying.kuyouk.top:9528/api.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 5,
+    "key": "zuidazy",
+    "name": "如意蓝光",
+    "api": "http://cms.maoyingshi.cc/api.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "id": 6,
+    "key": "123ku",
+    "name": "多米蓝光",
+    "api": "http://vod.dmdh.top:5680/api.php",
+    "download": "",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  }
+]
