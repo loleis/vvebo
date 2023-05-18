@@ -1,0 +1,14 @@
+[
+  {
+    "key": "快播云",
+    "id": 1,
+    "name": "快播云",
+    "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://jx.7kjx.com/?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  }
+]
