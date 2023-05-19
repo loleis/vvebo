@@ -34,7 +34,7 @@
 			"filterable": 1,
 			"ext": "http://45.207.9.101:7771"
 		},{
-			"key": "csp_Ffzyapi",
+			"key": "csp_1080zy",
 			"name": "采集┃高清资源",
 			"type": 1,
 			"api": "https://api.1080zyku.com/inc/apijson.php",
