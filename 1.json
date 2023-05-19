@@ -43,11 +43,11 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"categories": ["电影", "连续剧", "综艺", "动漫"]
+			"categories": ["国产剧", "电影", "综艺", "动漫"]
 		}, 
 {
       "key": "csp_Dovx",
-      "name": "aa┃阿里云盘",
+      "name": "qq┃阿里云盘",
       "type": 3,
       "api": "csp_Dovx",
 			"playerType": 1,
@@ -61,7 +61,7 @@
       "key": "csp_xb_zxzj",
       "name": "在线之家(XBiu)",
       "type": 3,
-      "api": "csp_XBiu",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
