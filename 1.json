@@ -47,7 +47,7 @@
 		}, 
 {
       "key": "csp_Paper",
-      "name": "zxx┃阿里云盘",
+      "name": "vvv┃阿里云盘",
       "type": 3,
       "api": "csp_Paper",
 			"playerType": 1,
@@ -55,7 +55,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 0,
-      "ext": "c59b4bfb90df4a06bb74625b9b603146"
+      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
     },
     {
       "key": "csp_xzj",
