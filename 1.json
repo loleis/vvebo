@@ -46,10 +46,10 @@
 			"categories": ["电影", "连续剧", "综艺", "动漫"]
 		}, 
 {
-      "key": "csp_PanSou",
+      "key": "csp_Dovx",
       "name": "aa┃阿里云盘",
       "type": 3,
-      "api": "csp_PanSou",
+      "api": "csp_Dovx",
 			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
