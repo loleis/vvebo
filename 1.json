@@ -47,7 +47,7 @@
 		}, 
 {
       "key": "csp_PanSou",
-      "name": "秒播ddd┃阿里云盘",
+      "name": "aa┃阿里云盘",
       "type": 3,
       "api": "csp_PanSou",
 			"playerType": 1,
@@ -55,7 +55,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 0,
-      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
       "key": "csp_xb_zxzj",
