@@ -46,16 +46,16 @@
 			"categories": ["国产剧", "电影", "综艺", "动漫"]
 		}, 
 {
-      "key": "csp_Dovx",
-      "name": "qq┃阿里云盘",
+      "key": "csp_TuGou",
+      "name": "ii┃阿里云盘",
       "type": 3,
-      "api": "csp_Dovx",
+      "api": "csp_TuGou",
 			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 0,
-      "ext": "https://www.qiaoji8.com/jar1/token.txt"
+      "ext": "d795f9ac653140f4ae73ce1fb85ca7b3"
     },
     {
       "key": "csp_xb_zxzj",
