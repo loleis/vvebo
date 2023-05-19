@@ -58,14 +58,14 @@
       "ext": "d795f9ac653140f4ae73ce1fb85ca7b3"
     },
     {
-      "key": "csp_xb_zxzj",
+      "key": "csp_xzj",
       "name": "在线之家(XBiu)",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/00700/vvebo/raw/branch/main/zxzj.json"
+      "ext": "https://www.zxzjhd.com/vodshow/{cateId}--------{catePg}---.html"
     },{
 			"key": "dr_Ddys",
 			"name": "秒播┃欧美日韩",
