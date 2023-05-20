@@ -1,15 +1,15 @@
 {
-  "spider": "https://gitee.com/lekanbox/App/raw/master/YSC.jar",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "spider":"https://agit.ai/00700/vvebo/raw/branch/main/Spider/0520.jar,
   "sites": [
     {
-      "key": "本地",
-      "name": "本地",
-      "type": 3,
-      "api": "csp_Local",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0
+	"key": "豆瓣",
+	"name": "🔍豆瓣荐片",
+	"type": 3,
+	"api": "https://cf.weixine.net/js/lib/drpy2.min.js",
+	"searchable": 0,
+	"quickSearch": 0,
+	"filterable": 0,
+	"ext": "https://cf.weixine.net/js/douban.js"
     },
     {
       "key": "UP云搜",
@@ -19,7 +19,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
     },
     {
       "key": "纸条",
@@ -29,8 +29,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "330ddefbea364b22ac6508c32c0ed0ca",
-      "jar": "https://gitee.com/lekanbox/App/raw/master/YSC.jar"
+      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
     },
     {
       "key": "易搜",
@@ -40,7 +39,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
     },
     {
       "key": "阿里云盘",
@@ -50,7 +49,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
     },
     {
       "key": "盘搜",
@@ -60,28 +59,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
-    },
-    {
-      "key": "土狗搜索",
-      "name": "🖥土狗搜索",
-      "type": 3,
-      "api": "csp_TuGou",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "330ddefbea364b22ac6508c32c0ed0ca",
-      "jar": "https://gitee.com/lekanbox/App/raw/master/YSC.jar"
-    },
-    {
-      "key": "玩偶哥哥",
-      "name": "🖥玩偶哥哥",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
     },
     {
       "key": "网盘搜索",
@@ -91,7 +69,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
     },
     {
       "key": "找资源",
@@ -101,17 +79,17 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt$$$yunshuche$$$11223344"
+      "ext": "330ddefbea364b22ac6508c32c0ed0ca$$$yunshuche$$$11223344"
     },
     {
-      "key": "七夜搜索",
-      "name": "🖥七夜搜索",
+      "key": "土狗搜索",
+      "name": "🖥土狗搜索",
       "type": 3,
-      "api": "csp_Dovx",
+      "api": "csp_TuGou",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt$$$yunshuche$$$11223344"
+      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
     },
     {
       "key": "push_agent",
@@ -121,7 +99,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+      "jar":"https://cf.weixine.net/YSC.jar",
+      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
     }
   ]
 }
