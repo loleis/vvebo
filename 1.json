@@ -13,13 +13,13 @@
     },
     {
       "key": "UP云搜",
-      "name": "☁️UP云搜",
+      "name": "☁️UP云dd搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
       "key": "纸条",
@@ -29,7 +29,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
       "key": "易搜",
@@ -49,7 +49,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
       "key": "盘搜",
@@ -59,7 +59,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "330ddefbea364b22ac6508c32c0ed0ca"
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
       "key": "网盘搜索",
