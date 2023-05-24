@@ -169,12 +169,18 @@ CCTV4K,http://159.75.85.63:8280/cctv4k.php
 
 TVBS新闻,rtmp://9wv7.mine.nu/sat/tv551
 TVBS新闻,rtmp://218.32.29.20/sat/tv551
+TVBS新闻,rtmp://119.81.124.89/sat/tv551
+TVBS新闻,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
 
 东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 东森新闻,http://116.11.140.104:8181/tsfile/live/1201_1.m3u8
+东森新闻,mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
+
+中天新闻,mitv://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c
 
 民视新闻,http://123.51.230.108:18663/.m3u8
 民视新闻,http://61.221.81.93:8078/hls/40/80/ftvnews.m3u8
+民视新闻,mitv://generationnexxxt.com:19806/64577cff0001eb7c5795230f6bb8749b
 
 
 体育频道,#genre#
