@@ -173,14 +173,10 @@ TVBS新闻,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
 五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-五星体育,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 
 劲爆体育,http://cfyy.cc/Cf/bstv/jbtyhd.m3u8
 劲爆体育,http://wabc.ml/gudou.php?id=jinbaotiyuHD_7000
 劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-劲爆体育,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-劲爆体育,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://suixiaobin.dsmynas.net:5666/ghyx.php?id=JinBaoTiYuHD_6000
 
 广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
