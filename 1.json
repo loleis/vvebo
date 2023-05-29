@@ -11,21 +11,16 @@
 	"filterable": 0,
 	"ext": "https://cf.weixine.net/js/douban.js"
     },
+    {"key":"csp_Paper","name":"秒播┃阿里云盘","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"330ddefbea364b22ac6508c32c0ed0ca"},
+
+{"key":"csp_Voflix","name":"备选┃沃利克斯","type":3,"api":"csp_XBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
+
+{"key":"csp_AppTT2","name":"秒播┃AppTT2","type":3,"api":"csp_AppTT2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "UP云搜",
       "name": "☁️UP云dd搜",
       "type": 3,
       "api": "csp_UpYun",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
-    },
-    {
-      "key": "纸条",
-      "name": "📜纸条搜索",
-      "type": 3,
-      "api": "csp_Paper",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
