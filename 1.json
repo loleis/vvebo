@@ -30,10 +30,10 @@
             "filterable": 1
         },
         {
-            "key": "csp_AppTT",
-            "name": "🐰图图┃APP",
+            "key": "csp_AppTT2",
+            "name": "2图┃APP",
             "type": 3,
-            "api": "csp_AppTT",
+            "api": "csp_AppTT2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
