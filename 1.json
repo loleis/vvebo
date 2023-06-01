@@ -29,7 +29,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {"key":"csp_AppTT2","name":"111图图影视","type":3,"api":"csp_AppTT2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.207.9.101:7771/"},
+        {"key":"csp_AppTT2","name":"123图图影视","type":3,"api":"csp_AppTT2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.207.9.101:7771"},
         {
             "key": "csp_AppTT",
             "name": "2图┃APP",
