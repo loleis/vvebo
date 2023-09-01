@@ -21,7 +21,7 @@
 "dtUrl":"http://play.sportsteam685.com/play/steam{vid}.html",
 "dtNode":"//ul[@data-stype='zqlq']",
 "dtName":"/li[1]/span/text()",
-"dtImg":"/li[3]/span/img/@src",
+"dtImg":"/li[1]/span/img/@src",
 "dtCate":"/li[1]/span/text()",
 "dtDirector":"concat('勇士总冠军')",
 "dtDirectorR":"",
