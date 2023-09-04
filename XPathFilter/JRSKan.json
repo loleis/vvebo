@@ -25,7 +25,7 @@
 "dtCate":"/li[1]/span/text()",
 "dtDirector":"concat('勇士总冠军')",
 "dtDirectorR":"",
-"dtDesc":"concat(/li[3]/strong/text(),'-',/li[5]/strong/text())",
+"dtDesc":"concat(/li[2]/strong/text(),'-',/li[5]/strong/text())",
 "dtFromNode":"//div[@class='sub_channel']/a/strong",
 "dtFromName":"concat(/text())",
 "dtFromNameR":"",
