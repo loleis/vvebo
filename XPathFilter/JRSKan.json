@@ -1,6 +1,6 @@
 {
 "author":"dj",
-"ua":"",
+"ua":"MOBILE_UA",
 "homeUrl":"http://www.jrskan8.com/",
 "cateManual":{"中文高清Q=腾讯|^_^|中文高清M=咪咕":"1"},
 "homeVodNode":"//ul[@data-stype='zqlq']",
