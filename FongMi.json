@@ -40,6 +40,67 @@
 {"key":"极光","name":"极光","type":1,"api":"https://www.jiguang008.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1 ,
   "categories":["国产剧","电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪篇","奇幻片","冒险片","纪录片",
     "香港剧","台湾剧","韩国剧","日本剧","美国剧","泰剧","动画片","国产动漫","日韩动漫","欧美动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"] },
+	{
+                "key": "csp_appys_龙门影视",
+                "name": "推荐|龙门影现",
+                "type": 3,
+                "api": "csp_AppYsV2",
+                "searchable": 1,
+                "quickSearch": 1,
+                "filterable": 1,
+                "ext": "https://movie.iqinu.com/api.php/v1.vod"
+        },
+    
+{
+            "key": "1080b",
+            "name": "1080P站-B",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.12.90.7:85/api.php/app/"
+        },
+        {
+            "key": "1080c",
+            "name": "1080P站-C",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tv.iptv.ski/api.php/app/"
+        },
+        {
+            "key": "me_qq",
+            "name": "4KHDR站-B",
+            "type": 1,
+            "api": "http://154.12.90.7:90/uploads/itvbox/qq.php",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "MX",
+            "name": "4KHDR站-C",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.12.90.7:86/api.php/app/"
+        },
+        {
+            "key": "yc",
+            "name": "4KHDR站-D",
+            "type": 3,
+            "playerType": 1,
+            "api": "csp_Hdhive",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+        },
  
 {
 			"key": "me_qq",
