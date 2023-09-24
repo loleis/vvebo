@@ -17,8 +17,213 @@
 {"key":"csp_XYQHiker_鸭奈飞影视","name":"奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/鸭奈飞影视.json"},
 {"key":"csp_XYQHiker_人人影视PRO","name":"人人影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/人人影视PRO.json"},
 
-{"key":"南柯","name":"南柯","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext":"./DRJS/南柯.js"},
+  
+  
+  //20230904自加
+  
+{"key": "csp_XBPQ_猫放", "name": "猫放☆时光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/猫放时光.json"},
+{"key":"A8","name":"A8影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},  
+{"key": "秒播", "name": "秒播☆影视","type": 3,"api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1, "changeable": 1,"ext": "http://mp4.ghlyys.com/api.php/app/"},
+{"key":"csp_AppYsV2_YuMi","name":"YuMi☆影视","type":3,"api":"csp_AppYsV2","playerType":2,"playUrl":"parse:玉米","searchable":1,"quickSearch":1,"filterable":1,
+  "ext":"http://154.12.21.186/api.php/app/","categories":["电影","电视剧","综艺","动漫","国产剧"]},
+{ "key": "Maolv", "name": "毛驴", "type": 3, "api": "csp_Maolv", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 },
+{"key": "csp_XBPQ_全看","name":"全看☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":  {
+"简介":"class=\"panel play_content\"&&</div>", 
+"倒序":"0",       
+"链接":"/play/+/detail/&&.html+-1-1.html",         
+"线路数组":"class=\"tab-play&&</li>",
+"线路标题":"&nbsp;&&</span>[排序:移动①播放源>联通①线>电信①播放源]",    
+"分类url":"https://www.quankanw.cc/show/{cateId}-{area}-{by}------{catePg}---{year}.html" ,
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
+},
+{"key":"极光","name":"极光","type":1,"api":"https://www.jiguang008.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1 ,
+  "categories":["国产剧","电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪篇","奇幻片","冒险片","纪录片",
+    "香港剧","台湾剧","韩国剧","日本剧","美国剧","泰剧","动画片","国产动漫","日韩动漫","欧美动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"] },
+  【潜水】优⃢━⃢秀 2023/09/23 星期六 16:01:33
+{
+                "key": "shijie",
+                "name": " 视界",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "http://www.1080dyw.cc/api.php/v1.vod"
+            },
+            {
+                "key": "69mj",
+                "name": " 美剧",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "https://www.69mj.com/xgapp.php/v2/"
+            },
+            {
+                "key": "aidi",
+                "name": " 爱迪",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "https://api123.adys.app/xgapp.php/v3/"
+            },
+            {
+                "key": "hello",
+                "name": " 哈喽",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "http://www.miniku.cc/xgapp.php/v1/"
+            },
+            {
+                "key": "beijihu",
+                "name": " 极狐",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "https://www.kuin.one/api.php/app/"
+            },
+            {
+                "key": "kuku",
+                "name": " 酷酷",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "http://cms.realdou.cn:35264/api.php/app/"
+            },
+            {
+                "key": "kuk",
+                "name": " 天堂1",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "http://dytt996.com/api.php/app/"
+            },
+            {
+                "key": "kku",
+                "name": " 酷影",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+            },
+            {
+                "key": "kkku",
+                "name": " 琦琦",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "ht
+
+【潜水】优⃢━⃢秀 2023/09/23 星期六 15:59:59
+            {
+                "key": "kuk",
+                "name": " 天堂",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "http://dytt996.com/api.php/app/"
+            },
+
+
+{
+			"key": "me_qq",
+			"name": "4KHDR站-B(维护中)",
+			"type": 1,
+			"playerType": 2,
+			"api": "http://119.91.31.224:89/itvbox/qq.php",
+			"searchable": 1,
+			"quickSearch": 1
+	},
+    {
+           "key": "MX",
+           "name": "4KHDR站-C(维护中)",
+           "type": 3,
+		   "playerType": 2,
+           "api": "csp_AppYsV2",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "ext": "http://154.12.90.7:86/api.php/app/"
+    },
+ {  
+     "key": "PanSou",
+      "name": "4KHDR站-S",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "84cb550b65d74486970d816800463229"
+    },
+  {
+            "key": "索尼",
+            "name": "4KHDR站-E",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": ["动作片",
+            "喜剧片",
+            "爱情片",
+            "科幻片",
+            "恐怖片",
+            "剧情片",
+            "战争片",
+            "国产剧",
+            "欧美剧",
+            "韩剧",
+            "日剧",
+            "港剧",
+            "台剧",
+	     "泰剧",
+	     "记录片",
+            "海外剧",
+            "大陆综艺",
+	    "日韩综艺",
+	    "港台综艺",
+	    "欧美综艺",
+	     "足球",
+	    "影视解说",
+            "国产动漫"
+          ]
+        },
+{
+      "key": "yc",
+      "name": "宇宙4K",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "84cb550b65d74486970d816800463229",
+      "jar": "http://101.200.184.252/神秘的宇宙哥哥"
+    },
+  {"key": "csp_XBPQ_耐看","name": "耐看☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/耐看影视.json"},
+  {
+            "key": "csp_XBPQ_耐看点播",
+            "name": "耐看≛点播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://www.nkvod.com/",
+                "简介": "<p&&</p>",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "影片状态": "集数：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "搜索模式": "1",
+                "搜索url": "/nk/-------------.html?wd={wd}",
+                "搜索数组": "module-card-item-class\">&&</a>",
+                "搜索标题": "alt=\"&&\"",
+                "搜索副标题": "note\">&&</div>",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+                "分类url": "https://www.nkvod.com/show/{cateId}--{by}------{catePg}---{year}.html;;ak",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+            }
+        },
+{"key":"南柯","name":"南柯","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./DRJS/南柯.js"},
+  //以上
+
+
+  
 {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"drpy_Czzy03","name":"厂长影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/changzhang.js"},
 {"key":"drpy_Rinhome","name":"荐片蓝光","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/荐片0726.js"},
