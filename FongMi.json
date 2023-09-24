@@ -170,10 +170,10 @@
 {"key":"push_agent","name":"链接推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"84cb550b65d74486970d816800463229"}],
 
 "parses":[
+	{"name": "yumi","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
 {"name":"QIQI","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"MIAO","type":0,"url":"http://www.miaoys.cc/vip/?url="},
 {"name":"JXJS","type":0,"url":"https://jxjson.cf/?url="},
-{"name": "YUMI","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
 {"name":"BOJX","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","header":{"User-Agent":"okhttp/4.1.0"}}],
 
 
