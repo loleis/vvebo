@@ -258,7 +258,7 @@
           "哔哩哔哩",
           "哔哩"
         ],
-	 {"name": "官解","type": 1,"url": "http://119.91.123.253:1234/Api/cs.php?url=",
+{"name": "官解","type": 1,"url": "http://119.91.123.253:1234/Api/cs.php?url=",
 "ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 		
 {"name": "玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
@@ -1478,13 +1478,7 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-    {
-      "name": "解析9",
-      "type": 1,
-      "url": "http://3.37.195.161:54371/parse/api/无名.js?url=",
-      "header": {
-        "User-Agent": "Mozilla/5.0" }
-      },
+    
 {"name":"QIQI","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"MIAO","type":0,"url":"http://www.miaoys.cc/vip/?url="},
 {"name":"JXJS","type":0,"url":"https://jxjson.cf/?url="},
