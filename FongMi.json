@@ -40,7 +40,8 @@
 {"key":"极光","name":"极光","type":1,"api":"https://www.jiguang008.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1 ,
   "categories":["国产剧","电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪篇","奇幻片","冒险片","纪录片",
     "香港剧","台湾剧","韩国剧","日本剧","美国剧","泰剧","动画片","国产动漫","日韩动漫","欧美动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"] },
- 
+ {"key": "jszy","name": "极速资源┃ ","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
+	 "style":{ "type":"oval","ratio": 0.75},"searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
 {
                 "key": "shijie",
                 "name": " 视界",
@@ -184,6 +185,7 @@
       "jar": "http://101.200.184.252/神秘的宇宙哥哥"
     },
   {"key": "csp_XBPQ_耐看","name": "耐看☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/耐看影视.json"},
+{"key": "csp_XBPQ_耐看*备", "name": "耐看☆点播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/耐看点播.json"},	
   {
             "key": "csp_XBPQ_耐看点播",
             "name": "耐看≛点播",
