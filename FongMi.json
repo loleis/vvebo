@@ -1,6 +1,7 @@
 {"spider":"./Spider/T00700.jar;md5;E2C5A1473686245FACF8736F44F57FE5",
-"wallpaper":"https://raw.fgit.cf/loleis/vvebo/main/bg%2Cphp",
-
+//"wallpaper":"./Wallpaper/01.jpg",
+"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
+  
 "lives":[
 {"name":"直播","type":0,"playerType":1,"boot":false,"url":"./live.txt"},
 {"name":"台湾新闻频道_需要翻墙","type":0,"playerType":1,"boot":false,"url":"https://raw.iqiq.io/T00700/TW-M3U/main/youtube.m3u"}],
@@ -15,8 +16,9 @@
 {"key":"csp_XYQHiker_乐猪影视","name":"乐猪影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/乐猪TV.json"},
 {"key":"csp_XYQHiker_鸭奈飞影视","name":"奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/鸭奈飞影视.json"},
 {"key":"csp_XYQHiker_人人影视PRO","name":"人人影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/人人影视PRO.json"},
-{"key":"csp_XYQHiker_素白白","name":"素白白影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/subaibai_open.js"},
 
+{"key":"南柯","name":"南柯","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext":"./DRJS/南柯.js"},
 {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"drpy_Czzy03","name":"厂长影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/changzhang.js"},
 {"key":"drpy_Rinhome","name":"荐片蓝光","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/荐片0726.js"},
