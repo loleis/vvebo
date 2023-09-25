@@ -30,7 +30,7 @@
 { "key": "csp_毛驴",
       "name": "毛驴影视",
       "type": 3,
-      "jar": "https://cloud.lxweb.cn/f/LekHD/2.jar",
+      "jar": "./Spider/OpenSpider.jar",
       "api": "csp_XBPQ",
       "ext": {
         "站名":"毛驴影视",
