@@ -49,7 +49,7 @@
 
 {"key": "csp_XBPQ_毛驴.备", "name": "毛驴☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 //"jar": "https://cloud.lxweb.cn/f/66Ehw/xyqg0904.jar",自己jar里有xbpq api的可以不用挂jar，删除本行，
-	
+"jar": "https://cloud.lxweb.cn/f/66Ehw/xyqg0904.jar",	
 "ext":  {
 "数组":"class=\"public-list-div public-list-bj\"&&</div",
 "图片": "data-src=\"&&\"",
@@ -59,7 +59,7 @@
 "线路标题": "<i class=\"fa ds-dianying\">&&<span class=\"badge\">[排序:毛驴秒播①号线>毛驴秒播②号线>腾腾-官方>奇奇-官方>酷酷-官方>线路2]",
 "副标题":"<span class=\"public-list-prb hide ft2\">&&</span>",
 //"跳转解析":"毛驴-极速①号线$https://jx.hqqys.com/cache.php?url=#网盘4k线路$https://www.maolvys.com/player/?url=#xx1线$https://xx1url=#xx2线$https://xx2url=",有某条线路解析的自己加上，没有可删除本行，
-"跳转解析":"xx1线$https://xx1url=#xx2线$https://xx2url=",
+"跳转解析":"毛驴-极速①号线$https://jx.hqqys.com/cache.php?url=#网盘4k线路$https://www.maolvys.com/player/?url=#xx1线$https://xx1url=#xx2线$https://xx2url=",
 "分类url": "https://maolvys.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/state/{state}/version/{version}/year/{year};;m",
 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},	
 	{
