@@ -76,7 +76,7 @@
 "线路标题": "<i class=\"fa ds-dianying\">&&<span class=\"badge\">[排序:毛驴秒播①号线>毛驴秒播②号线>腾腾-官方>奇奇-官方>酷酷-官方>线路2]",
 "副标题":"<span class=\"public-list-prb hide ft2\">&&</span>",
 //"跳转解析":"毛驴-极速①号线$https://jx.hqqys.com/cache.php?url=#网盘4k线路$https://www.maolvys.com/player/?url=#xx1线$https://xx1url=#xx2线$https://xx2url=",有某条线路解析的自己加上，没有可删除本行，
-"跳转解析":"毛驴-极速①号线$https://jx.hqqys.com/cache.php?url=#网盘4k线路$https://www.maolvys.com/player/?url=#xx1线$https://xx1url=#xx2线$https://xx2url=",
+//"跳转解析":"毛驴-极速①号线$https://jx.hqqys.com/cache.php?url=#网盘4k线路$https://www.maolvys.com/player/?url=#xx1线$https://xx1url=#xx2线$https://xx2url=",
 "分类url": "https://maolvys.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/state/{state}/version/{version}/year/{year};;m",
 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},	
 	{
@@ -345,11 +345,7 @@
 {"name": "玉米1","type": 1,"url": "https://jxjson.cf/json.php?url="},
 {"name": "玉米3","type": 1,"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="},
 {"name": "玉米4","type": 1,"url": "http://119.91.31.224:81/txjx.php?url="},	
-{
-      "name": "懒懒1",
-      "type": 1,
-      "url": "http://123.57.56.94:9931/lanlan/?url="
-    },
+
 {"name": "官哔","type": 1,"url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url="},
 {"name": "大厂","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
 {"name": "大厂1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
