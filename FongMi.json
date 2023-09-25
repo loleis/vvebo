@@ -98,7 +98,7 @@
         "副标题": "<span class=\"public-list-prb hide ft2\">&&</span>",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
         "分类url": "https://www.maolvys.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}/"
-    }
+    },
     },
 
 {
