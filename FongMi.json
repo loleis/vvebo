@@ -55,10 +55,22 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-	"分类url": "https://maolvys.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/state/{state}/version/{version}/year/{year}",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"},	
-        "jar":"./Spider/OpenSpider.jar"
+	"ext":  {"分类url": "https://maolvys.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/state/{state}/version/{version}/year/{year}",
+		"分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
+	"jar":"./Spider/OpenSpider.jar"
     },
+
+{
+            "key": "csp_CandyMuj_sstv",
+            "name": "速搜影院(4K)",
+            "type": 3,
+            "api": "csp_CandyMuj_sstv",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "jar": "./Spider/candymuj.jar"
+        },
+	
 {"key": "csp_XBPQ_全看","name":"全看☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":  {
 "简介":"class=\"panel play_content\"&&</div>", 
