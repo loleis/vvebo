@@ -62,7 +62,7 @@
 "跳转解析":"毛驴-极速①号线$https://jx.hqqys.com/cache.php?url=#网盘4k线路$https://www.maolvys.com/player/?url=",
 "分类url": "https://maolvys.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/state/{state}/version/{version}/year/{year}",
 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"},
-"jar": "./Spider/HeChengChaXiu.jar"},
+"jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"},
 
 {"key": "csp_XBPQ_毛驴.备", "name": "毛驴☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 //"jar": "https://cloud.lxweb.cn/f/66Ehw/xyqg0904.jar",自己jar里有xbpq api的可以不用挂jar，删除本行，
