@@ -33,7 +33,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-                                                "jar":"https://agit.ai/kvymin/TV/src/branch/master//jar/Box.jar;md5;d25d1188f676ee4b64fd1b4a878013d4"
+                                               
 		},
 {
 			"key": "csp_LibVio",
@@ -44,7 +44,7 @@
 			"playerType": 2,
 			"quickSearch": 1,
 			"filterable": 0
-		"jar":"https://agit.ai/kvymin/TV/src/branch/master//jar/Box.jar;md5;d25d1188f676ee4b64fd1b4a878013d4"
+		
 },
 {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"drpy_Czzy03","name":"厂长影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/changzhang.js"},
