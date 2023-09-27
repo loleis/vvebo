@@ -1,7 +1,7 @@
 {
 	"作者": "心魔",
 	"站名": "鸭奈非4K",
-	"主页url": "https://yanetflix.me/",
+	"主页url": "https://yanetflix.tv/",//备用1 https://yanaifei.net// 备用2 https://www.yanetflix.one/ 备用3 https://www.yanetflix.me 备用4 https://yanaifei.com/
 	"热门": "",
 	"分类": "电影$1#剧集$2#综艺$3#动漫$4#",
 	"分类url": "https://yanetflix.me/vod/show/{cateId}--{by}------{catePg}---.html",
