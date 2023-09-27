@@ -35,7 +35,7 @@
 {"key":"drpy_Ngys","name":"南瓜影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/南瓜.js"},
 {"key":"drpy_Zizi","name":"子子影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/子子影视.js"},
 {"key":"drpy_Bttoo","name":"宝塔影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/两个bt.js"},
-{"key": "骚火","name": "♻️骚火(js)","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/KeMmT6/saohuo.js"},
+{"key": "骚火","name": "ོ  ²⁰²³骚火(js)","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/KeMmT6/saohuo.js"},
 
 {"key":"csp_Xhtx","name":"神秘影视","type":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"csp_Lziapi","name":"量子(AD)","type":"1","api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["电影","国产剧","韩国剧"]},
