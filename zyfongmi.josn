@@ -32,8 +32,7 @@
 			"api": "csp_Youguo",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-                                               
+			"filterable": 0
 		},
 {
 			"key": "csp_LibVio",
