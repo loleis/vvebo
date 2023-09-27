@@ -6,6 +6,7 @@
 {"name":"台湾新闻频道_需要翻墙","type":0,"playerType":1,"boot":false,"url":"https://raw.iqiq.io/T00700/TW-M3U/main/youtube.m3u"}],
 
 "sites":[
+{"key":"XiaoYa","name":"ོ  ²⁰²³小雅","api":"csp_XiaoYa","type":3,"searchable":1,"filterable":1,"quickSearch":1,"changeable":0,"ext":"eyJhcGlLZXkiOiI5YzY4ZDE0Zi1mNGFkLTQxMWItOWJlNi04NTM1NmMyMjc5YzYiLCJhcGkiOiJodHRwOi8vMjcuMTQuMTIuMjM0OjQ1NjcifQ==","jar":"http://27.14.12.234:4567/spring.jar"},
 {"key":"玩偶哥哥T4","name":"秒播推荐","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=84cb550b65d74486970d816800463229","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
 {"key":"drpy_Nmys","name":"农民影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/农民影视.js"},
 {"key":"csp_XYQHikerAL_玩偶哥哥","name":"玩偶(快)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./XYQHikerAL/玩偶哥哥.json"},
