@@ -25,26 +25,7 @@
 {"key": "蓝光","name": "ོ  ²⁰²³蓝光影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/蓝光影院.json"},//自加
 {"key": "EMO","name": "ོ  ²⁰²³蓝光","type": 3,"api": "csp_AppYsV2","ext": "http://one3.emofun.top/mogai_api.php/v1.vod"},//自加
 {"key": "6080","name": "ོ  ²⁰²³6080","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/6080.json"},//自加
-{
-			"key": "油果",
-			"name": "油果",
-			"type": 3,
-			"api": "csp_Youguo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
-		},
-{
-			"key": "csp_LibVio",
-			"name": "利播",
-			"type": 3,
-			"api": "csp_Lib",
-			"searchable": 1,
-			"playerType": 2,
-			"quickSearch": 1,
-			"filterable": 0
-		
-},
+
 {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"drpy_Czzy03","name":"厂长影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/changzhang.js"},
 {"key":"drpy_Rinhome","name":"荐片蓝光","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS荐片0726.js"},
