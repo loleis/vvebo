@@ -35,7 +35,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/蓝光影院.json"
-		},
+		},//自加
 {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"drpy_Czzy03","name":"厂长影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/changzhang.js"},
 {"key":"drpy_Rinhome","name":"荐片蓝光","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS荐片0726.js"},
