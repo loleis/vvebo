@@ -78,6 +78,7 @@
 {"key":"drpy_Rinhome","name":"荐片蓝光","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS荐片0726.js"},
 {"key":"xbpq_nkvod","name":"耐看点播","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://www.nkvod.us/show/{cateId}--------{catePg}---.html"},
 
+{ "key": "bulei_open", "name": "ོ  ²⁰²³布雷", "type": 3, "api": "./DRJS/bulei_open.js"},
 {"key":"drpy_Zxzj","name":"在线之家","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/在线之家.js"},
 {"key":"drpy_Ngys","name":"南瓜影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/南瓜.js"},
 {"key":"drpy_Zizi","name":"子子影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/子子影视.js"},
