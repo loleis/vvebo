@@ -117,32 +117,9 @@
 
 "parses":[
 {
-      "name": "♻️解析",
+      "name": "♻️全部",
       "type": 1,
-      "url": "https://jx.zhanlangbu.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },
 {"name":"QIQI","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"MIAO","type":0,"url":"http://www.miaoys.cc/vip/?url="},
