@@ -3,7 +3,22 @@
 
 "lives":[
 {"name":"直播","type":0,"playerType":1,"boot":false,"url":"./live.txt"},
-{"name":"台湾新闻频道_需要翻墙","type":0,"playerType":1,"boot":false,"url":"https://raw.iqiq.io/T00700/TW-M3U/main/youtube.m3u"}],
+{"name":"台湾新闻频道_需要翻墙","type":0,"playerType":1,"boot":false,"url":"https://raw.iqiq.io/T00700/TW-M3U/main/youtube.m3u"},
+{"name":"YanG•综合","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"范明明•综合","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"YueChan•综合","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"Yoursmile•综合","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"饭太硬•综合","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"初秋语•电台","type":0,"url":"./radio.txt","playerType":1},
+{"name":"范明明•电台","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u","playerType":1},
+{"name":"肥羊•斗鱼","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u","playerType":1},
+{"name":"肥羊•虎牙","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u","playerType":1},
+{"name":"肥羊•YY","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yylunbo.m3u","playerType":1},
+{"name":"初秋语•哔哩","type":0,"url":"./bili.m3u","playerType":1},
+{"name":"YuanHsing•油管","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u"}
+],
 
 "sites":[
 {"key":"drpy_js_榜单荐片2","name":"榜单荐片","type":3,"api":"./DRJS/Lib/drpy2.min.js","ext":"./DRJS/Lib/douban.js"},
@@ -125,6 +140,17 @@
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
 {"key": "csp_XYQHiker_锐行加速影院","name": "²⁰²³锐行","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/Bloip/%E9%94%90%E8%A1%8C%E5%8A%A0%E9%80%9F%E5%BD%B1%E9%99%A2.json",
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
+{
+      "key": "csp_XYQHiker_锐行加速影院",
+      "name": "♻️锐行",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://pan.shangui.cc/f/Bloip/%E9%94%90%E8%A1%8C%E5%8A%A0%E9%80%9F%E5%BD%B1%E9%99%A2.json",
+      "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"
+    },
  {"key": "csp_XYQHiker_秋霞影视","name": "²⁰²³秋霞","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/jBdat7/qiuxia.json",
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
 {"key": "csp_XYQHiker_电影牛影院","name": "²⁰²³电影牛","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/jX7s7/%E7%94%B5%E5%BD%B1%E7%89%9B%E5%BD%B1%E9%99%A2.json",
