@@ -24,7 +24,7 @@
 {"key":"drpy_js_榜单荐片2","name":"榜单荐片","type":3,"api":"./DRJS/Lib/drpy2.min.js","ext":"./DRJS/Lib/douban.js"},
 {
        "key":"ssys_sstv",
-       "name":"♻️速搜 | 优质",
+       "name":"²⁰²³♻️速搜 | 优质",
        "type":3,
        "api":"csp_CandyMuj_sstv",
        "searchable":1,
@@ -32,6 +32,7 @@
        "filterable":1,
        "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;b9e068a2a61fea9507a31ef4cbcd61b4"
     },
+{"key": "drpy_Bttwo","name": "²⁰²³👶2BT☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/两个BT.js"},
 {"key": "drpy_js_优酷","name": "²⁰²³优酷","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/8g3Io/youkudachang.js"},
 {"key":"drpy_js_360影视","name":"²⁰²³官源360","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"²⁰²³官源爱奇艺","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/奇珍异兽.js"},
@@ -49,10 +50,9 @@
  {"key": "csp_aidi","name": "²⁰²³迪迪","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 {"key": "瑞丰","name": "²⁰²³辣辣","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
  {"key": "js 77","name": "²⁰²³酷云77","type": 3,"api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e9%85%b7%e4%ba%9177.js","searchable": 1,"quickSearch": 1,"filterable": 1},
- {"key": "csp_AppMr","name": "²⁰²³明明","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "csp_AppMr","name": "明明","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "drpy_追忆","name": "👶追忆☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/追忆影视.js"},
 {"key": "drpy_先生","name": "²⁰²³电影先生","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/电影先生.js"},
-{"key": "drpy_Bttwo","name": "👶2BT☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/两个BT.js"},
 {"key": "csp_New6v","name": "🧲新6V☆磁力","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com"},
 {"key": "黄黄","name": "²⁰²³黄黄","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
  {"key": "莱米","name": "♻️莱米","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://pan.shangui.cc/f/lkdptk/%E8%8E%B1%E7%B1%B3.json"},
