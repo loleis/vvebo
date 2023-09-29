@@ -126,7 +126,7 @@
 
 {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"drpy_Czzy03","name":"厂长影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/changzhang.js"},
-{"key":"drpy_Rinhome","name":"荐片蓝光","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS荐片0726.js"},
+{"key":"drpy_Rinhome","name":"荐片蓝光","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/荐片0726.js"},
 {"key":"xbpq_nkvod","name":"耐看点播","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://www.nkvod.us/show/{cateId}--------{catePg}---.html"},
 
 { "key": "bulei_open", "name": "²⁰²³布雷", "type": 3, "api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext": "./DRJS/bulei_open.js"},
@@ -138,11 +138,10 @@
 {"key": "骚火","name": "²⁰²³骚火(js)","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/KeMmT6/saohuo.js"},
  {"key": "csp_XYQHiker_COKEMV影院","name": "²⁰²³乐乐","type": 3,"api": "csp_XYQHiker","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/2mPvcx/COKEMV%E5%BD%B1%E9%99%A2.json",
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
-{"key": "csp_XYQHiker_锐行加速影院","name": "²⁰²³锐行","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/Bloip/%E9%94%90%E8%A1%8C%E5%8A%A0%E9%80%9F%E5%BD%B1%E9%99%A2.json",
-"jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
+
 {
       "key": "csp_XYQHiker_锐行加速影院",
-      "name": "♻️锐行",
+      "name": "²⁰²³♻️锐行",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
