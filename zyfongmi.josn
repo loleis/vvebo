@@ -107,6 +107,43 @@
          "简介": "<p>&&</p>"
        }
     },
+{
+        "key": "maolv_open",
+        "name": "影视|毛驴",
+        "type": 3,
+        "api": "csp_Maolv",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+	"jar":"./Spider/OpenSpider.jar"
+	
+    },
+
+{
+            "key": "csp_CandyMuj_sstv",
+            "name": "速搜影院(4K)",
+            "type": 3,
+            "api": "csp_CandyMuj_sstv",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "jar": "./Spider/candymuj.jar"
+        },
+	
+{"key": "csp_XBPQ_全看","name":"全看☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":  {
+"简介":"class=\"panel play_content\"&&</div>", 
+"倒序":"0",       
+"链接":"/play/+/detail/&&.html+-1-1.html",         
+"线路数组":"class=\"tab-play&&</li>",
+"线路标题":"&nbsp;&&</span>[排序:移动①播放源>联通①线>电信①播放源]",    
+"分类url":"https://www.quankanw.cc/show/{cateId}-{area}-{by}------{catePg}---{year}.html" ,
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
+},
+{"key":"极光","name":"极光","type":1,"api":"https://www.jiguang008.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1 ,
+  "categories":["国产剧","电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪篇","奇幻片","冒险片","纪录片",
+    "香港剧","台湾剧","韩国剧","日本剧","美国剧","泰剧","动画片","国产动漫","日韩动漫","欧美动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"] },
+
 {"key":"csp_JRSKan","name":"赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"./XPathFilter/JRSKan.json"},
 {"key":"csp_Yj1211","name":"平台直播","type":3,"api":"csp_Yj1211","playerType":1,"searchable":0,"quickSearch":0,"filterable":1},
 
