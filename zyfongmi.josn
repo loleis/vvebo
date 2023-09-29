@@ -33,6 +33,9 @@
        "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;b9e068a2a61fea9507a31ef4cbcd61b4"
     },
 {"key": "drpy_Bttwo","name": "²⁰²³👶2BT☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/两个BT.js"},
+{"key":"drpy_js_磁力熊搜索","name":"磁力熊搜索[js]","type":3,"api":"https://agit.ai/so/gao/raw/branch/masterlib/drpy2.min.js","ext":"https://agit.ai/so/gao/raw/branch/masterjs/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
+{"key":"lf_js_search","name":"路飞搜索[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://agit.ai/so/gao/raw/branch/masterlib/lf_search3_min.js"},
+{"key":"drpy_js_新片场","name":"新片场[js]","type":3,"api":"https://agit.ai/so/gao/raw/branch/masterlib/drpy2.min.js","ext":"https://agit.ai/so/gao/raw/branch/masterjs/新片场.js"},
 {"key": "drpy_js_优酷","name": "²⁰²³优酷","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/8g3Io/youkudachang.js"},
 {"key":"drpy_js_360影视","name":"²⁰²³官源360","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"²⁰²³官源爱奇艺","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/奇珍异兽.js"},
@@ -57,22 +60,7 @@
 {"key": "黄黄","name": "²⁰²³黄黄","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
  {"key": "莱米","name": "♻️莱米","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://pan.shangui.cc/f/lkdptk/%E8%8E%B1%E7%B1%B3.json"},
 {"key": "路飞转点播","name": "²⁰²³路飞_MV","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.txt"},
-{
-			"key": "歌手_MV",
-			"name": "⏭MV",
-			"type": 1,
-			"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
-			"searchable": 0
-		},
-{
-            "key": "MV_vod",
-            "name": "音乐视频丨接口",
-            "type": 1,
-            "api": "https://mv.wogg.link/mv/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
 {
        "key": "夜幕",
        "name": "️²⁰²³夜夜",
@@ -296,6 +284,24 @@
 "台湾剧",  "香港剧",  "欧美剧",  "记录片",  "海外剧",  "泰国剧",  "大陆综艺",  "港台综艺",  "日韩综艺",  "欧美综艺",  "欧美动漫",  "港台动漫",  "海外动漫",  "体育",  "足球",  "篮球",  "网球",  "斯诺克"],"jar": "https://pan.shangui.cc/f/BznXUp/fm0603.jar"},
 {"key": "VIP影视","name": "²⁰²³VIP影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/DgdIz/VIP%E5%BD%B1%E8%A7%86.json"},
  {"key": "Xinsj","name": "²⁰²³视觉","type": "3","api": "csp_Xinsj","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://www.6080yy3.com"},
+
+{
+			"key": "歌手_MV",
+			"name": "⏭MV",
+			"type": 1,
+			"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
+			"searchable": 0
+		},
+{
+            "key": "MV_vod",
+            "name": "音乐视频丨接口",
+            "type": 1,
+            "api": "https://mv.wogg.link/mv/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
 {"key":"csp_Paper","name":"阿里(快)","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"84cb550b65d74486970d816800463229"},
 
 {"key":"csp_Local","name":"本地视频","type":3,"api":"csp_Local","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
