@@ -67,17 +67,17 @@
 {"key":"csp_XYQHiker_乐猪影视","name":"乐猪影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/乐猪TV.json"},
 {"key":"csp_XYQHiker_鸭奈飞影视","name":"奈飞影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/鸭奈飞影视.json"},
 {"key":"鸭奈飞","name":"ོ²⁰²³鸭奈飞┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
-{"key":"csp_XBPQ_奈飞影院","name":"ོ  ²⁰²³奈飞影院","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/奈飞影院.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/qcfree/tvboxzy/main/jar/xyqg0913.jar"},//自加
-{"key":"csp_XBPQ_奈飞中文","name":"ོ  ²⁰²³奈飞中文","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/奈飞中文.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/qcfree/tvboxzy/main/jar/xyqg0913.jar"},//自加
+{"key":"csp_XBPQ_奈飞影院","name":"²⁰²³奈飞影院","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/奈飞影院.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/qcfree/tvboxzy/main/jar/xyqg0913.jar"},//自加
+{"key":"csp_XBPQ_奈飞中文","name":"²⁰²³奈飞中文","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/奈飞中文.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/qcfree/tvboxzy/main/jar/xyqg0913.jar"},//自加
 {"key":"csp_XYQHiker_人人影视PRO","name":"人人影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/人人影视PRO.json"},
-{"key": "鸭奈非4K","name": "ོ  ²⁰²³鸭奈非4K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/鸭奈非4K.json"},//自加
-{"key":"csp_XYQHiker_独播库","name":"ོ  ²⁰²³独播库","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/独播库.json"},//自加
-{"key": "蓝光电影网","name": "ོ  ²⁰²³蓝光电影网","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/蓝光电影网.json"},//自加
-{"key": "蓝光","name": "ོ  ²⁰²³蓝光影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/蓝光影院.json"},//自加
-{"key": "蓝光影院","name": "ོ  ²⁰²³蓝光影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/VjNh8/languang.json","jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
-{"key": "EMO","name": "ོ  ²⁰²³蓝光","type": 3,"api": "csp_AppYsV2","ext": "http://one3.emofun.top/mogai_api.php/v1.vod"},//自加
-{"key": "6080","name": "ོ  ²⁰²³6080","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/6080.json"},//自加
-{"key": "达达龟","name": "ོ  ²⁰²³达达龟","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/5eXSA/dadagui.json"},
+{"key": "鸭奈非4K","name": "²⁰²³鸭奈非4K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/鸭奈非4K.json"},//自加
+{"key":"csp_XYQHiker_独播库","name":"²⁰²³独播库","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/独播库.json"},//自加
+{"key": "蓝光电影网","name": "²⁰²³蓝光电影网","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/蓝光电影网.json"},//自加
+{"key": "蓝光","name": "²⁰²³蓝光影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/蓝光影院.json"},//自加
+{"key": "蓝光影院","name": "²⁰²³蓝光影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/VjNh8/languang.json","jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
+{"key": "EMO","name": "²⁰²³蓝光","type": 3,"api": "csp_AppYsV2","ext": "http://one3.emofun.top/mogai_api.php/v1.vod"},//自加
+{"key": "6080","name": "²⁰²³6080","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/6080.json"},//自加
+{"key": "达达龟","name": "²⁰²³达达龟","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/5eXSA/dadagui.json"},
 
 
 {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
@@ -85,39 +85,39 @@
 {"key":"drpy_Rinhome","name":"荐片蓝光","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS荐片0726.js"},
 {"key":"xbpq_nkvod","name":"耐看点播","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"https://www.nkvod.us/show/{cateId}--------{catePg}---.html"},
 
-{ "key": "bulei_open", "name": "ོ  ²⁰²³布雷", "type": 3, "api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext": "./DRJS/bulei_open.js"},
+{ "key": "bulei_open", "name": "²⁰²³布雷", "type": 3, "api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext": "./DRJS/bulei_open.js"},
 {"key":"drpy_Zxzj","name":"在线之家","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/在线之家.js"},
 {"key":"drpy_Ngys","name":"南瓜影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/南瓜.js"},
 {"key":"drpy_Zizi","name":"子子影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/子子影视.js"},
-{"key":"drpy_js_往往影视","name":"往往影视","type":3,"api":"./DRJS/Lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/往往影视.js"},
+{"key":"drpy_js_往往影视","name":"ོ²⁰²³往往影视","type":3,"api":"./DRJS/Lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/往往影视.js"},
 {"key":"drpy_Bttoo","name":"宝塔影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/两个bt.js"},
-{"key": "骚火","name": "ོ  ²⁰²³骚火(js)","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/KeMmT6/saohuo.js"},
- {"key": "csp_XYQHiker_COKEMV影院","name": "ོ  ²⁰²³乐乐","type": 3,"api": "csp_XYQHiker","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/2mPvcx/COKEMV%E5%BD%B1%E9%99%A2.json",
+{"key": "骚火","name": "²⁰²³骚火(js)","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/KeMmT6/saohuo.js"},
+ {"key": "csp_XYQHiker_COKEMV影院","name": "²⁰²³乐乐","type": 3,"api": "csp_XYQHiker","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/2mPvcx/COKEMV%E5%BD%B1%E9%99%A2.json",
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
-{"key": "csp_XYQHiker_锐行加速影院","name": "ོ  ²⁰²³锐行","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/Bloip/%E9%94%90%E8%A1%8C%E5%8A%A0%E9%80%9F%E5%BD%B1%E9%99%A2.json",
+{"key": "csp_XYQHiker_锐行加速影院","name": "²⁰²³锐行","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/Bloip/%E9%94%90%E8%A1%8C%E5%8A%A0%E9%80%9F%E5%BD%B1%E9%99%A2.json",
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
- {"key": "csp_XYQHiker_秋霞影视","name": "ོ  ²⁰²³秋霞","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/jBdat7/qiuxia.json",
+ {"key": "csp_XYQHiker_秋霞影视","name": "²⁰²³秋霞","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/jBdat7/qiuxia.json",
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
-{"key": "csp_XYQHiker_电影牛影院","name": "ོ  ²⁰²³电影牛","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/jX7s7/%E7%94%B5%E5%BD%B1%E7%89%9B%E5%BD%B1%E9%99%A2.json",
+{"key": "csp_XYQHiker_电影牛影院","name": "²⁰²³电影牛","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/jX7s7/%E7%94%B5%E5%BD%B1%E7%89%9B%E5%BD%B1%E9%99%A2.json",
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
-{"key": "csp_XYQHiker_兄弟影视","name": "ོ  ²⁰²³兄弟","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/VKDXH8/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86.json",
+{"key": "csp_XYQHiker_兄弟影视","name": "²⁰²³兄弟","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/VKDXH8/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86.json",
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
- {"key": "csp_XYQHiker_农民影视","name": "ོ  ²⁰²³农民","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/p67MhL/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json",
+ {"key": "csp_XYQHiker_农民影视","name": "²⁰²³农民","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/p67MhL/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json",
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
 
 {"key":"csp_Xhtx","name":"神秘影视","type":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"csp_Lziapi","name":"量子(AD)","type":"1","api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["电影","国产剧","韩国剧"]},
 {"key":"csp_Ikun","name":"爱酷(AD)","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产剧","大陆综艺","国产动漫","韩国剧","欧美剧","记录片","动画片"]},
-{"key": "csp_XYQHiker素白白","name": "ོ  ²⁰²³素白白","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/pvghL/%E7%B4%A0%E7%99%BD%E7%99%BD.json",
+{"key": "csp_XYQHiker素白白","name": "²⁰²³素白白","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/pvghL/%E7%B4%A0%E7%99%BD%E7%99%BD.json",
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
-{"key": "非凡","name": "ོ  ²⁰²³非凡","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,
+{"key": "非凡","name": "²⁰²³非凡","type": 0,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,
 "categories": [  "国产动漫",  "日韩动漫",  "国产剧",  "韩国剧",  "日本剧",  "电影片",  "连续剧",  "综艺片",  "动漫片",  "动作片",  "喜剧片",  "爱情片",  "科幻片",  "恐怖片",  "剧情片",  "战争片",
 "香港剧",  "欧美剧",  "记录片",  "台湾剧",  "海外剧",  "泰国剧",  "大陆综艺",  "港台综艺",  "日韩综艺",  "欧美综艺",  "欧美动漫",  "港台动漫",  "海外动漫"], "jar": "https://pan.shangui.cc/f/BznXUp/fm0603.jar"},
-{"key": "量子","name": "ོ  ²⁰²³量子","type": 0,"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,
+{"key": "量子","name": "²⁰²³量子","type": 0,"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,
 "categories": [  "国产动漫",  "日韩动漫",  "国产剧",  "韩国剧",  "日本剧",  "电影片",  "连续剧",  "综艺片",  "动漫片",  "动作片",  "喜剧片",  "爱情片",  "科幻片",  "恐怖片",  "剧情片",  "战争片",
 "台湾剧",  "香港剧",  "欧美剧",  "记录片",  "海外剧",  "泰国剧",  "大陆综艺",  "港台综艺",  "日韩综艺",  "欧美综艺",  "欧美动漫",  "港台动漫",  "海外动漫",  "体育",  "足球",  "篮球",  "网球",  "斯诺克"],"jar": "https://pan.shangui.cc/f/BznXUp/fm0603.jar"},
-{"key": "VIP影视","name": "ོ  ²⁰²³VIP影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/DgdIz/VIP%E5%BD%B1%E8%A7%86.json"},
- {"key": "Xinsj","name": "ོ  ²⁰²³视觉","type": "3","api": "csp_Xinsj","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://www.6080yy3.com"},
+{"key": "VIP影视","name": "²⁰²³VIP影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/DgdIz/VIP%E5%BD%B1%E8%A7%86.json"},
+ {"key": "Xinsj","name": "²⁰²³视觉","type": "3","api": "csp_Xinsj","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://www.6080yy3.com"},
 {"key":"csp_Paper","name":"阿里(快)","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"84cb550b65d74486970d816800463229"},
 
 {"key":"csp_Local","name":"本地视频","type":3,"api":"csp_Local","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
