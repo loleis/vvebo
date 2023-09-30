@@ -75,11 +75,11 @@
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar"
         },
 {"key": "drpy_Bttwo","name": "²⁰²³👶2BT☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/两个BT.js"},
-//加至https://agit.ai/so
+//20230904自加 （https://agit.ai/so）
 {"key":"drpy_js_磁力熊搜索","name":"磁力熊搜索[js]","type":3,"api":"./DRJS/lib/drpy2.min.js","ext":"./DRJS/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
-//加至https://agit.ai/so
+//20230904自加 （https://agit.ai/so）
 {"key":"lf_js_search","name":"路飞搜索[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./DRJS/lf_search3_min.js"},
-//加至https://agit.ai/767820774/gao/raw/branch/master/9918.json
+//20230904自加 （https://agit.ai/767820774/gao/raw/branch/master/9918.json）
 {"key":"lf_js_lf_live","name":"直播|lf_live","type":3,"api":"./DRJS/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./DRJS/lf_live1.txt"},
 {"key":"drpy_js_新片场","name":"新片场[js]","type":3,"api":"https://agit.ai/so/gao/raw/branch/masterlib/drpy2.min.js","ext":"https://agit.ai/so/gao/raw/branch/masterjs/新片场.js"},
 
