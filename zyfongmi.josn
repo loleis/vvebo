@@ -26,7 +26,7 @@
         "key": "sssp",
         "name": "速搜视频 ️",
         "type": 3,
-        "api": "assets://js/sssp_open.js"
+        "api": "assets://DRJS/sssp_open.js"
       },
 
 {
