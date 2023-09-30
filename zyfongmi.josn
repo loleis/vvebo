@@ -1,4 +1,10 @@
 {"spider":"./Spider/T00700.jar;md5;E2C5A1473686245FACF8736F44F57FE5",
+"spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar",//第1包
+ "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DA553CABC9A4E1F4577D1DEFCAA3AB28",//第2包
+"spider": "https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar",//第3包
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;55894a9f32ba4201a1e2b157bb2e5c91",//第4包阿里
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",//测试包
+ "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7",//新版线路jar包
 
 "wallpaper":"./Wallpaper/01.jpg",
 "lives":[
@@ -99,7 +105,21 @@
 {"key":"drpy_js_腾云驾雾","name":"²⁰²³官源腾讯","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"²⁰²³官源芒果","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/百忙无果.js"},
 {"key":"drpy_js_菜狗","name":"²⁰²³官源搜狗","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/菜狗.js"},
+{"key":"sohu","name":"🦊搜狐┃(秒播)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 {"key":"玩偶哥哥T4","name":"秒播推荐","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=84cb550b65d74486970d816800463229","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
+{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{
+            "key": "电影港",
+            "name": "🧲电影港",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",
+            "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
+        },
 {"key":"影巢","name":"┃影巢┃4k┃","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/168039/wg.jar?sign=SvNrSl_NQF6Vs-AhEAuL37B0tfuz5CpzM3dSFjnA8Lo%3D%3A0"}, 
 
 {"key":"夜兔资源","name":"┃夜兔┃4K┃","type": 1, "api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1}, 
@@ -123,14 +143,36 @@
 {"key": "瑞丰","name": "²⁰²³辣辣","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
  {"key": "js 77","name": "²⁰²³酷云77","type": 3,"api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e9%85%b7%e4%ba%9177.js","searchable": 1,"quickSearch": 1,"filterable": 1},
  {"key": "csp_AppMr","name": "明明","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key":"mino4K","name":"mino4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./Spider/fix0929.jar"},
 {"key":"追忆影视","name":"追忆影视","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"./Spider/fix0929.jar"},
 {"key": "drpy_追忆","name": "👶追忆☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/追忆影视.js"},
 {"key": "drpy_先生","name": "²⁰²³电影先生","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/电影先生.js"},
+{
+      "key": "落落",
+      "name": "️♻️落落┃APP",
+      "type": 3,
+      "api": "csp_AppYs",
+      "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://tv.hyjy666.top/icciu_api.php/v1.vod"
+    },
+    {
+      "key": "csp_xml_享看",
+      "name": "♻️享看.云播",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://xkanzy10.com/api.php/provide/vod"
+    },
+{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_XBPQ_6V1","name": "magnet | 宝盒","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"},
 
-{"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
+{"key":"csp_SixV","name":"²⁰²³🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
 {"key":"csp_XYQHiker_6V","name":"新*6V","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XBPQ/6v电影-磁力.json"},
 {
 			"key": "6v电影",
@@ -165,7 +207,28 @@
 {"key": "黄黄","name": "²⁰²³黄黄","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
  {"key": "莱米","name": "♻️莱米","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://pan.shangui.cc/f/lkdptk/%E8%8E%B1%E7%B1%B3.json"},
 {"key": "路飞转点播","name": "²⁰²³路飞_MV","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.txt"},
-
+{
+            "key": "土豪",
+            "name": "土豪┃BPQ",
+            "type": 3,
+            "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;m",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$4",
+                "搜索模式": "1",
+                "二次截取": "1&&-1+module-item-cover",
+                "数组": "module-item-pic&&module-item-cover",
+                "副标题": "module-item-text*>&&</div",
+                "搜索url": "https://tuhao.tv/vse/-------------.html?wd={wd}",
+                "线路数组": "<div class=\"module-tab-item tab-item&&</div[不包含:无尽#闪电#天空#飞速#卧龙]",
+                "线路标题": "<span>&&</span",
+                "搜索数组": "class=\"module-item-pic&&</div",
+                "搜索图片": "data-src=\"&&\"",
+                "搜索标题": "alt=\"&&\"",
+                "搜索链接": "href=\"&&\""
+            }
+        },
 {
        "key": "夜幕",
        "name": "️²⁰²³夜夜",
@@ -177,18 +240,18 @@
        "jar": "https://pan.shangui.cc/f/15pVFw/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar;md5;2045faa2c4337fd863c1b9f02cc69e31",
        "ext": {
          "站名": "夜光影视",
-         "主页url": "https://www.ygpvp.com/",
-         "分类url": "https://www.ygpvp.com/vodshow/{cateId}--------{catePg}---{year}.html;;v",
+         "主页url": "https://cddys.com/",
+         "分类url": "https://cddys.com/vodshow/{cateId}--------{catePg}---{year}.html;;v",
          "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
          "图片": "data-original=\"&&\"",
          "链接": "href=\"&&\"",
          "搜索模式": "1",
-         "搜索url": "https://www.ygpvp.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
+         "搜索url": "https://cddys.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
          "搜索二次截取": "\"list\":[&&]",
          "搜索数组": "{&&}",
          "搜索标题": "\"name\":\"&&\"",
          "搜索图片": "\"pic\":\"&&\"",
-         "搜索链接": "https://www.ygpvp.com/voddetail/+\"id\":&&,+html",
+         "搜索链接": "https://cddys.com/voddetail/+\"id\":&&,+html",
          "跳转播放链接": "https://bfq.ygpvp.com/ygbfq1/?url=+vod_class*url\":\"&&\"",
          "二次跳转播放链接": "https://bfq.ygpvp.com/ygbfq1/API.php;post;url=+\"url\"*\"&&\"+&ac=jx",
          "三次跳转播放链接": "\"url\"*\"&&\"",
