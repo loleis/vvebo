@@ -142,8 +142,16 @@
  {"key": "csp_aidi","name": "²⁰²³迪迪","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 {"key": "瑞丰","name": "²⁰²³辣辣","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
  {"key": "js 77","name": "²⁰²³酷云77","type": 3,"api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e9%85%b7%e4%ba%9177.js","searchable": 1,"quickSearch": 1,"filterable": 1},
- {"key": "csp_AppMr","name": "明明","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+ {"key": "csp_AppMr1","name": "明明","type": 3,"api": "csp_AppMr1","searchable": 1,"quickSearch": 1,"filterable": 1},
+{
+      "key": "csp_AppMr",
+      "name": "👻┃明明┃影院",
+      "type": 3,
+      "api": "csp_AppMr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key":"mino4K","name":"mino4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./Spider/fix0929.jar"},
 {"key":"追忆影视","name":"追忆影视","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"./Spider/fix0929.jar"},
 {"key": "drpy_追忆","name": "👶追忆☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/追忆影视.js"},
