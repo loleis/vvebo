@@ -30,7 +30,6 @@
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
-       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;b9e068a2a61fea9507a31ef4cbcd61b4"
     },
 {
       "key": "速搜",
@@ -75,7 +74,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            
+          "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar"  
         },
 {"key": "drpy_Bttwo","name": "²⁰²³👶2BT☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/两个BT.js"},
 //https://agit.ai/so
