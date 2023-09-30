@@ -212,7 +212,7 @@
 {"key": "黄黄","name": "²⁰²³黄黄","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
  {"key": "莱米","name": "♻️莱米","jar": "./Spider/fan.txt","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://pan.shangui.cc/f/lkdptk/%E8%8E%B1%E7%B1%B3.json"},
 {
-            "key": "莱米",
+            "key": "莱米1",
             "name": "莱米┃BPQ",
             "type": 3,
             "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
