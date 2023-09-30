@@ -8,6 +8,8 @@
 
 #初秋语
 https://agit.ai/767820774/gao/raw/branch/master/listx.txt
+#初秋语2
+https://agit.ai/so/gao/raw/branch/master/list.txt
 #YanG
 https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 #atsushi
@@ -16,6 +18,10 @@ https://ghproxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/A
 https://agit.ai/767820774/gao/raw/branch/master/livex.m3u
 #小武哥
 https://qu.ax/PEHy.txt
+#CNTV"
+https://raw.fgit.cf/qcfree/TV/main/cntv.txt
+#AAlive
+https://raw.fgit.cf/qcfree/mmtv/main/AAlive.txt#
 #范明明•综合
 https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u
 #YueChan•综合
