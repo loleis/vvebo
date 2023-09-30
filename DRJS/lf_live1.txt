@@ -8,13 +8,13 @@
 
 #初秋语2
 https://agit.ai/so/gao/raw/branch/master/list.txt
-*#初秋语
+#初秋语
 https://agit.ai/767820774/gao/raw/branch/master/listx.txt
-*#YanG
+#YanG
 https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
-*#atsushi
+#atsushi
 https://ghproxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u
-*#AV集
+#AV集
 https://agit.ai/767820774/gao/raw/branch/master/livex.m3u
 *#小武哥
 https://qu.ax/PEHy.txt
