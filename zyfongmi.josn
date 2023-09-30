@@ -79,8 +79,8 @@
         },
 {"key": "drpy_Bttwo","name": "²⁰²³👶2BT☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/两个BT.js"},
 {"key":"drpy_js_磁力熊搜索","name":"磁力熊搜索[js]","type":3,"api":"./DRJS/lib/drpy2.min.js","ext":"./DRJS/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
-{"key":"lf_js_search","name":"路飞搜索[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://agit.ai/so/gao/raw/branch/masterlib/lf_search3_min.js"},
-{"key":"drpy_js_新片场","name":"新片场[js]","type":3,"api":"https://agit.ai/so/gao/raw/branch/masterlib/drpy2.min.js","ext":"https://agit.ai/so/gao/raw/branch/masterjs/新片场.js"},
+{"key":"lf_js_search","name":"路飞搜索[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./DRJS/lf_search3_min.js"},//https://agit.ai/so
+{"key":"drpy_js_新片场","name":"新片场[js]","type":3,"api":"https://agit.ai/so/gao/raw/branch/masterlib/drpy2.min.js","ext":"https://agit.ai/so/gao/raw/branch/masterjs/新片场.js"},//https://agit.ai/so
 {"key": "drpy_js_优酷","name": "²⁰²³优酷","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/8g3Io/youkudachang.js"},
 {"key":"drpy_js_360影视","name":"²⁰²³官源360","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"²⁰²³官源爱奇艺","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/奇珍异兽.js"},
