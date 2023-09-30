@@ -18,7 +18,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/A
 https://agit.ai/767820774/gao/raw/branch/master/livex.m3u
 #小武哥
 https://qu.ax/PEHy.txt
-#CNTV"
+#CNTV
 https://raw.fgit.cf/qcfree/TV/main/cntv.txt
 #AAlive
 https://raw.fgit.cf/qcfree/mmtv/main/AAlive.txt#
