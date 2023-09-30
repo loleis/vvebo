@@ -12,7 +12,7 @@
 {"name":"直播","type":0,"playerType":1,"boot":false,"url":"./live.txt"},
 {"name":"台湾新闻频道_需要翻墙","type":0,"playerType":1,"boot":false,"url":"https://raw.iqiq.io/T00700/TW-M3U/main/youtube.m3u"},
 {"name":"CNTV","type":0,"playerType":1,"boot":false,"url":"https://raw.fgit.cf/qcfree/TV/main/cntv.txt"},
-{"name":"CNTV","type":0,"playerType":1,"boot":false,"url":"https://raw.fgit.cf/qcfree/mmtv/main/AAlive.txt"},
+{"name":"AAlive","type":0,"playerType":1,"boot":false,"url":"https://raw.fgit.cf/qcfree/mmtv/main/AAlive.txt"},
 {"name":"初秋语","type":0,"url":"https://agit.ai/so/gao/raw/branch/master/list.txt"},
 {"name":"初秋语","type":0,"url":"https://agit.ai/767820774/gao/raw/branch/master/listx.txt"},
 {"name":"YanG","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
