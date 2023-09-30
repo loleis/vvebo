@@ -23,14 +23,11 @@
 "sites":[
 {"key":"drpy_js_榜单荐片2","name":"榜单荐片","type":3,"api":"./DRJS/Lib/drpy2.min.js","ext":"./DRJS/Lib/douban.js"},
 {
-       "key":"ssys_sstv",
-       "name":"²⁰²³♻️速搜 | 优质",
-       "type":3,
-       "api":"csp_CandyMuj_sstv",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1
-    },
+        "key": "sssp",
+        "name": "速搜视频 ️",
+        "type": 3,
+        "api": "assets://js/sssp_open.js"
+      },
 
 {
       "key": "速搜",
