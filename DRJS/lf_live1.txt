@@ -21,7 +21,7 @@ https://qu.ax/PEHy.txt
 #CNTV
 https://raw.fgit.cf/qcfree/TV/main/cntv.txt
 #AAlive
-https://raw.fgit.cf/qcfree/mmtv/main/AAlive.txt#
+https://raw.fgit.cf/qcfree/mmtv/main/AAlive.txt
 #范明明•综合
 https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u
 #YueChan•综合
