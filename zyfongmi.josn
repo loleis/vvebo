@@ -101,7 +101,11 @@
  {"key": "csp_AppMr","name": "明明","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "drpy_追忆","name": "👶追忆☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/追忆影视.js"},
 {"key": "drpy_先生","name": "²⁰²³电影先生","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/电影先生.js"},
-{"key": "csp_New6v","name": "🧲新6V☆磁力","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com"},
+{"key": "csp_New6v","name": "🧲新6V☆磁力","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext":"http://www.xb6v.com"
+"jar":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"
+},
+
 {"key": "黄黄","name": "²⁰²³黄黄","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
  {"key": "莱米","name": "♻️莱米","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://pan.shangui.cc/f/lkdptk/%E8%8E%B1%E7%B1%B3.json"},
 {"key": "路飞转点播","name": "²⁰²³路飞_MV","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.txt"},
