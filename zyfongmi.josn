@@ -1,6 +1,6 @@
 {"spider":"./Spider/T00700.jar;md5;E2C5A1473686245FACF8736F44F57FE5",
 
-
+"wallpaper":"./Wallpaper/01.jpg",
 "lives":[
 {"name":"直播","type":0,"playerType":1,"boot":false,"url":"./live.txt"},
 {"name":"台湾新闻频道_需要翻墙","type":0,"playerType":1,"boot":false,"url":"https://raw.iqiq.io/T00700/TW-M3U/main/youtube.m3u"},
@@ -19,7 +19,7 @@
 {"name":"初秋语•哔哩","type":0,"url":"./bili.m3u","playerType":1},
 {"name":"YuanHsing•油管","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u"}
 ],
-"wallpaper":"./Wallpaper/01.jpg",
+
 "sites":[
 {"key":"drpy_js_榜单荐片2","name":"榜单荐片","type":3,"api":"./DRJS/Lib/drpy2.min.js","ext":"./DRJS/Lib/douban.js"},
 {
