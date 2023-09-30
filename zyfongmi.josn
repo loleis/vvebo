@@ -95,6 +95,19 @@
 {"key":"drpy_js_百忙无果","name":"²⁰²³官源芒果","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/百忙无果.js"},
 {"key":"drpy_js_菜狗","name":"²⁰²³官源搜狗","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/菜狗.js"},
 {"key":"玩偶哥哥T4","name":"秒播推荐","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=84cb550b65d74486970d816800463229","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
+{"key":"影巢","name":"┃影巢┃4k┃","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/168039/wg.jar?sign=SvNrSl_NQF6Vs-AhEAuL37B0tfuz5CpzM3dSFjnA8Lo%3D%3A0"}, 
+
+{"key":"夜兔资源","name":"┃夜兔┃4K┃","type": 1, "api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1}, 
+
+{"key":"天天视频","name":"┃天天┃4K┃","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ttsp.live/api.php/app/"}, 
+
+{"key": "大鹏","name": "┃大鹏┃4K┃","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://s.ether-mine.com/api.php/app/"}, 
+
+{"key":"迷你库","name":"┃迷你库┃2K┃","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"}, 
+
+{"key":"北极狐", "name": "┃北极狐┃2K┃", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"}, 
+
+{"key": "鸿运当头", "name": "┃鸿运┃秒播┃", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://jh.dytt996.com:990/api.php/app/"}, 
 {"key":"drpy_Nmys","name":"农民影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/农民影视.js"},
 {"key":"csp_XYQHikerAL_玩偶哥哥","name":"玩偶(快)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./XYQHikerAL/玩偶哥哥.json"},
 {"key": "Qtv","name": "♻️鹅鹅","type": 3,"api": "csp_Qtv","searchable": 1,"quickSearch": 1,"filterable": 1},
