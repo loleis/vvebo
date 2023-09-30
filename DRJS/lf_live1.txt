@@ -6,15 +6,15 @@
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
 
-#初秋语
+//#初秋语
 https://agit.ai/767820774/gao/raw/branch/master/listx.txt
 #初秋语2
 https://agit.ai/so/gao/raw/branch/master/list.txt
-#YanG
+//#YanG
 https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
-#atsushi
+//#atsushi
 https://ghproxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u
-#AV集
+//#AV集
 https://agit.ai/767820774/gao/raw/branch/master/livex.m3u
 #小武哥
 https://qu.ax/PEHy.txt
