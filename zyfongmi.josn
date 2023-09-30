@@ -210,6 +210,7 @@
     },
 
 {"key": "黄黄","name": "²⁰²³黄黄","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
+{"key":"lgz_徕米","name":"️🔰徕米影院","type":3,"api":"XBPQ","ext":"免嗅:1,分类:电视剧$dianshiju#电影$dianying#综艺$zongyi#少儿$shaoer#动漫$dongman,分类url:https://www.laimitv.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
  {"key": "莱米","name": "♻️莱米","jar": "./Spider/fan.txt","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://pan.shangui.cc/f/lkdptk/%E8%8E%B1%E7%B1%B3.json"},
 {
             "key": "莱米1",
