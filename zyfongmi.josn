@@ -94,12 +94,12 @@
             "jar": "./Spider/candymuj.jar"
         },
 {"key": "drpy_Bttwo","name": "²⁰²³👶2BT☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/两个BT.js"},
-{"key":"drpy_js_磁力熊搜索","name":"磁力熊搜索[js]","type":3,"api":"./DRJS/lib/drpy2.min.js","ext":"./DRJS/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
+{"key":"drpy_js_磁力熊搜索","name":"磁力熊搜索[js]","type":3,"api":"./DRJS/Lib/drpy2.min.js","ext":"./DRJS/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 
 {"key":"lf_js_search","name":"路飞搜索[js]",
 "type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./DRJS/lf_search3_min.js","jar": "./Spider/fan.txt"},
 
-//{"key":"lf_js_lf_live","name":"直播|lf_live","type":3,"api":"./DRJS/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./DRJS/lf_live1.txt"},
+//{"key":"lf_js_lf_live","name":"直播|lf_live","type":3,"api":"./DRJS/Lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./DRJS/lf_live1.txt"},
 {"key":"mino4K","name":"mino4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./Spider/fix0929.jar"},
 
 
@@ -112,8 +112,8 @@
 {"key":"drpy_js_菜狗","name":"²⁰²³官源搜狗","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/菜狗.js"},
 {"key":"sohu","name":"🦊搜狐┃(秒播)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 {"key":"玩偶哥哥T4","name":"秒播推荐","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=84cb550b65d74486970d816800463229","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
-{ "key":"drpy_js_LIBVIO", "name":"LIBVIO[js]", "type":3, "api":"./DRJS/lib/drpy2.min.js", "ext":"./DRJS/LIBVIO.js" },
-{ "key":"drpy_js_厂长资源", "name":"厂长资源[js]", "type":3, "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","api":"./DRJS/lib/drpy2.min.js", "ext":"./DRJS/厂长资源.js" },
+{ "key":"drpy_js_LIBVIO", "name":"LIBVIO[js]", "type":3, "api":"./DRJS/Lib/drpy2.min.js", "ext":"./DRJS/LibVIO.js" },
+{ "key":"drpy_js_厂长资源", "name":"厂长资源[js]", "type":3, "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","api":"./DRJS/Lib/drpy2.min.js", "ext":"./DRJS/厂长资源.js" },
 {"key":"csp_Voflix","name":"🌀Voflix",
 "type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"jar": "./Spider/fan.txt"},
 {
@@ -153,8 +153,8 @@
  {"key": "csp_AppMr1","name": "明明","type": 3,"api": "csp_AppMr1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./Spider/fan.txt"},
 {"key":"AppMr","name":"明明┃App","jar": "./Spider/fan.txt","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_AppMr","name":²⁰²³"明明","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/119809/0329.jar?sign=X74NXtsF7xr1JgPXZky_lgR56WDsUVYzWj1I4gNRo7c%3D%3A0"},//明明
-{"key":"drpy_js_新片场","name":"新片场[js]","type":3,"api":"./DRJS/lib/drpy2.min.js","ext":"./DRJS/新片场.js"},//https://agit.ai/so/gao/raw/branch/master/js/新片场.js
-{ "key":"drpy_js_新视觉影视", "name":"新视觉影视[js]", "type":3, "api":"./DRJS/lib/drpy2.min.js", "ext":"./DRJS/新视觉影视.js" },
+{"key":"drpy_js_新片场","name":"新片场[js]","type":3,"api":"./DRJS/Lib/drpy2.min.js","ext":"./DRJS/新片场.js"},//https://agit.ai/so/gao/raw/branch/master/js/新片场.js
+{ "key":"drpy_js_新视觉影视", "name":"新视觉影视[js]", "type":3, "api":"./DRJS/Lib/drpy2.min.js", "ext":"./DRJS/新视觉影视.js" },
 
 {"key":"追忆影视","name":"追忆影视","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"./Spider/fix0929.jar"},
 {"key": "drpy_追忆","name": "👶追忆☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/追忆影视.js"},
@@ -685,16 +685,7 @@
 
 {"name":"量子广告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 
-{
-      "name": "非凡广告",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
+
 {
       "name": "暴风廣告",
       "hosts": [
