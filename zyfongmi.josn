@@ -113,7 +113,7 @@
 {"key":"sohu","name":"🦊搜狐┃(秒播)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 {"key":"玩偶哥哥T4","name":"秒播推荐","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=84cb550b65d74486970d816800463229","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
 { "key":"drpy_js_LIBVIO", "name":"LIBVIO[js]", "type":3, "api":"./DRJS/Lib/drpy2.min.js", "ext":"./DRJS/LIBVIO.js" },
-{ "key":"drpy_js_厂长资源", "name":"厂长资源[js]", "type":3, "api":"./lib/drpy2.min.js", "ext":"./js/厂长资源.js" ,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main//f.jar"},//https://xhdwc.tk/js/厂长资源.js
+{"key":"drpy_js_厂长资源","name":"影视 | 厂长资源[js]","type":3,"api":"https://raw.fgit.cf/loleis/yyfx/main/lib/drpy2.min.js","ext":"https://raw.fgit.cf/loleis/yyfx/main/js/厂长资源.js"},
 {"key":"csp_Voflix","name":"🌀Voflix",
 "type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"jar": "./Spider/fan.txt"},
 {
