@@ -154,7 +154,7 @@
 {"key":"AppMr","name":"明明┃App","jar": "./Spider/fan.txt","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_AppMr","name":²⁰²³"明明","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/119809/0329.jar?sign=X74NXtsF7xr1JgPXZky_lgR56WDsUVYzWj1I4gNRo7c%3D%3A0"},//明明
 {"key":"drpy_js_新片场","name":"新片场[js]","type":3,"api":"./DRJS/drpy2.min.js","ext":"./DRJS/新片场.js"},//https://agit.ai/so/gao/raw/branch/master/js/新片场.js
-{ "key":"drpy_js_新视觉影视", "name":"新视觉影视[js]", "type":3, "api":"./DRJS/drpy2.min.js", "ext":"https://xhdwc.tk/js/新视觉影视.js" },
+{ "key":"drpy_js_新视觉影视", "name":"新视觉影视[js]", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/新视觉影视.js" },
 
 {"key":"追忆影视","name":"追忆影视","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"./Spider/fix0929.jar"},
 {"key": "drpy_追忆","name": "👶追忆☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/追忆影视.js"},
