@@ -98,6 +98,13 @@
 
 {"key":"lf_js_search","name":"路飞搜索[js]",
 "type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./DRJS/lf_search3_min.js","jar": "./Spider/fan.txt"},
+ {
+      "key": "yp",
+      "name": "YP",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://zy.xzam.cn/api.php/provide/vod/"
+    },
 {
       "key": "狐狸",
       "name": "主力推荐【公众号catvod】",
