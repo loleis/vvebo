@@ -98,6 +98,21 @@
 
 {"key":"lf_js_search","name":"路飞搜索[js]",
 "type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./DRJS/lf_search3_min.js","jar": "./Spider/fan.txt"},
+{
+      "key": "狐狸",
+      "name": "主力推荐【公众号catvod】",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230714.jar;md5;620bec58d59eb55110ca4d731ce736ae",
+      "playerType": "2",
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+
+{"key":"drpy_js_六度TV","name":"影视 | 六度TV[js]","type":3,
+"api":"https://raw.fgit.cf/loleis/yyfx/main/lib/drpy2.min.js","ext":"https://raw.fgit.cf/loleis/yyfx/main/js/六度TV.js"},
+
+{"key":"drpy_js_往往影视","name":"影视 | 往往影视[js]","type":3,"api":"https://raw.fgit.cf/loleis/yyfx/main/lib/drpy2.min.js","ext":"https://raw.fgit.cf/loleis/yyfx/main/js/往往影视.js"},
+{"key":"drpy_js_UM电影[V2]","name":"影视 | UM电影[V2][js]","type":3,"api":"https://raw.fgit.cf/loleis/yyfx/main/lib/drpy2.min.js","ext":"https://raw.fgit.cf/loleis/yyfx/main/js/UM电影[V2].js"},
 
 //{"key":"lf_js_lf_live","name":"直播|lf_live","type":3,"api":"./DRJS/Lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./DRJS/lf_live1.txt"},
 {"key":"mino4K","name":"mino4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./Spider/fix0929.jar"},
