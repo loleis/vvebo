@@ -549,12 +549,36 @@
 {"key":"push_agent","name":"链接推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"84cb550b65d74486970d816800463229"}],
 
 "parses":[
-{"name":"并发","type":2,"url":"Parallel"},
-{"name":"聚合","type":3,"url":"Demo"},
+{
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "Json并发",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+
 {"name": "嗅探","type": 3,"url": "Web"},
 {"name":"-云解析-","type":0,"url":"https://jx.yparse.com/index.php?url="},
 {"name":"冰哲","type":1,"url":"https://jx.bingzhe.wang/api/v1/tvbox/parse?key=Rjb9UE4d4So4XY&url="},
 {"name":"m3u8tv","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{
+            "name": "1080P_HDR",
+            "type": 1,
+            "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/3.12.11"
+                }
+            }
+        },
 {
       "name": "♻️玉米1",
       "type": 1,
