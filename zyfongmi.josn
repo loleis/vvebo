@@ -137,6 +137,14 @@
 {"key":"drpy_js_六度TV","name":"影视 | 六度TV[js]","type":3,
 "api":"https://raw.fgit.cf/loleis/yyfx/main/lib/drpy2.min.js","ext":"https://raw.fgit.cf/loleis/yyfx/main/js/六度TV.js"},
 
+{      "key": "好戏蓝光",   "name": "好戏┃BPQ",      "type": 3,      "api": "csp_XBPQ",
+//      "ext": {        "分类url":"https://haoxi.vip /index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",        "分类":"电影$1#电视剧$2#动漫$4#综艺$3"        }},
+
+{"key": "csp_XBPQ_好戏", "name": "好戏☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext":  {"搜索url": "https://www.haoxi.vip/vodsearch/{wd}-------------/",
+"分类url": "https://www.haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/version/{version}/",
+"分类": "电影$1#连续剧$2#综艺$3#动漫$4#B站$5#电影解说$43"}},
+
 {"key":"drpy_js_往往影视","name":"影视 | 往往影视[js]","type":3,"api":"https://raw.fgit.cf/loleis/yyfx/main/lib/drpy2.min.js","ext":"https://raw.fgit.cf/loleis/yyfx/main/js/往往影视.js"},
 
 {"key": "drpy_js_优酷","name": "²⁰²³优酷","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/8g3Io/youkudachang.js"},
