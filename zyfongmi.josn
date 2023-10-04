@@ -458,6 +458,7 @@
         },
 {"key":"南柯","name":"南柯","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./DRJS/南柯.js"},
 {"key":"油果视频","name":"油果视频","type":3,"api":"csp_Youguo","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://cdn.qiaoji8.com/fix09292.jar;md5;d2dc99c413e74bb24c862c1021d1f7eb"},
+{"key":"橘子影视","name":"橘子影视","jar":"http://cdn.qiaoji8.com/fix09292.jar;md5;d2dc99c413e74bb24c862c1021d1f7eb","type":3,"api":"csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"},
 {"key":"csp_JRSKan","name":"赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"./XPathFilter/JRSKan.json"},
 {"key":"csp_Yj1211","name":"平台直播","type":3,"api":"csp_Yj1211","playerType":1,"searchable":0,"quickSearch":0,"filterable":1},
 
