@@ -558,6 +558,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
+{"key": "csp_Bilimv","name": "🅱哔哩MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"changeable":0,"ext": "http://itvbox.cc/sft/Bilibili/哔哩MTV.json"},
 
 {"key":"csp_Paper","name":"阿里(快)","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"84cb550b65d74486970d816800463229"},
 
