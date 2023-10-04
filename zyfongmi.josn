@@ -191,6 +191,28 @@
 {"key":"drpy_js_厂长资源","name":"影视 | 厂长资源[js]","type":3,"api":"https://raw.fgit.cf/loleis/yyfx/main/lib/drpy2.min.js","ext":"https://raw.fgit.cf/loleis/yyfx/main/js/厂长资源.js"},
 {"key":"csp_Voflix","name":"🌀Voflix",
 "type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"jar": "./Spider/fan.txt"},
+   {
+            "key": "荐片",
+            "name": "荐片┃影视",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://drpy.cainisi.cf/js/荐片.js"
+        },
+        {
+            "key": "玩偶",
+            "name": "玩偶┃云盘",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "影視天下第一",
+                "filter": "https://tvbox.cainisi.cf/json/wogg.json"
+            },
+            "jar": "https://tvbox.cainisi.cf/jar/fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf"
+        },
 {
             "key": "电影港",
             "name": "🧲电影港",
