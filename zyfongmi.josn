@@ -114,7 +114,7 @@
       "playerType": "2",
       "ext": "https://www.kuin.one/api.php/app/"
     },
-
+{"key":"csp_Ikanbot","name": "💡Ikanbot | 直连","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"drpy_js_六度TV","name":"影视 | 六度TV[js]","type":3,
 "api":"https://raw.fgit.cf/loleis/yyfx/main/lib/drpy2.min.js","ext":"https://raw.fgit.cf/loleis/yyfx/main/js/六度TV.js"},
 
