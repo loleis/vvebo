@@ -247,8 +247,26 @@
  {"key": "csp_aidi","name": "²⁰²³迪迪","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 {"key": "瑞丰","name": "²⁰²³辣辣","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
  {"key": "js 77","name": "²⁰²³酷云77","type": 3,"api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e9%85%b7%e4%ba%9177.js","searchable": 1,"quickSearch": 1,"filterable": 1},
- {"key": "csp_AppMr1","name": "明明","type": 3,"api": "csp_AppMr1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./Spider/fan.txt"},
+ {"key": "modu","name": "魔都资源 ","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_AppMr1","name": "明明","type": 3,"api": "csp_AppMr1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./Spider/fan.txt"},
 {"key":"AppMr","name":"明明┃App","jar": "./Spider/fan.txt","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"百川影视","name":"百川[影视]_XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bczhuiju.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3"}},
+{"key":"谍战迷","name":"谍战[影视]_XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.dzmitv.com/phb/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"}},
+{"key":"看片狂人","name":"狂人[影视]_XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-------{catePg}---{year}--.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
+{"key":"蜂鸟影院","name":"蜂鸟[影视]_XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://shmxqs.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#动画片$donghuapian#纪录片$jilupian"}},
+{"key":"韩剧网","name":"韩剧[影视]_XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.tvn.cc/index.php?s=/list-select-id-{cateId}-type--area--year-{year}-star--state--order-hits.html","分类":"韩剧$1#日剧$2#泰剧$3"}},
+{
+    "key": "看片狂人",
+    "name": "狂人┃",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+        "线路数组":"class=\"fed-drop-btns&&</li>",
+	    "线路标题":">&&</a>",
+	    "分类url": "https://www.kpkuang.fun/vodshow/{cateId}-{area}-------{catePg}---{year}--.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+    }
+},
 {"key":"csp_AppMr","name":²⁰²³"明明","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/119809/0329.jar?sign=X74NXtsF7xr1JgPXZky_lgR56WDsUVYzWj1I4gNRo7c%3D%3A0"},//明明
 {"key":"drpy_js_新片场","name":"新片场[js]","type":3,"api":"./DRJS/Lib/drpy2.min.js","ext":"./DRJS/新片场.js"},//https://agit.ai/so/gao/raw/branch/master/js/新片场.js
 { "key":"drpy_js_新视觉影视", "name":"新视觉影视[js]", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/新视觉影视.js" },
