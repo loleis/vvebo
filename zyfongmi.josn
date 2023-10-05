@@ -252,7 +252,7 @@
 {"key":"AppMr","name":"明明┃App","jar": "./Spider/fan.txt","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"百川影视","name":"百川[影视]_XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bczhuiju.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3"}},
 {"key":"谍战迷","name":"谍战[影视]_XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.dzmitv.com/phb/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"}},
-{"key":"看片狂人","name":"狂人[影视]_XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-------{catePg}---{year}--.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
+{"key":"看片狂人1","name":"狂人[影视]_XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-------{catePg}---{year}--.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
 {"key":"蜂鸟影院","name":"蜂鸟[影视]_XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://shmxqs.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#动画片$donghuapian#纪录片$jilupian"}},
 {"key":"韩剧网","name":"韩剧[影视]_XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.tvn.cc/index.php?s=/list-select-id-{cateId}-type--area--year-{year}-star--state--order-hits.html","分类":"韩剧$1#日剧$2#泰剧$3"}},
 {
