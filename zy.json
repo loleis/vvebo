@@ -56,6 +56,23 @@
 //A字头
 {"key":"drpy_js_奇珍异兽","name":"²⁰²³爱奇艺官源","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/奇珍异兽.js"},
 
+{"key":"玩偶哥哥T4","name":"A秒播推荐","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=84cb550b65d74486970d816800463229","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
+{
+            "key": "玩偶",
+            "name": "A玩偶云盘",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "84cb550b65d74486970d816800463229",
+                "filter": "https://tvbox.cainisi.cf/json/wogg.json"
+            },
+            "jar": "https://tvbox.cainisi.cf/jar/fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf"
+        },
+
+{"key":"csp_XYQHikerAL_玩偶哥哥","name":"A玩偶(快)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./XYQHikerAL/玩偶哥哥.json"},
+
 {"key":"csp_Ikun","name":"爱酷(AD)","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产剧","大陆综艺","国产动漫","韩国剧","欧美剧","记录片","动画片"]},
 
 //B字头
@@ -400,8 +417,6 @@
 //M字头
 {"key":"drpy_js_百忙无果","name":"²⁰²³芒果官源","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/百忙无果.js"},
 
-{"key":"玩偶哥哥T4","name":"秒播推荐","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=84cb550b65d74486970d816800463229","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
-
 {"key":"mino4K","name":"²⁰²³mino4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./Spider/fix0929.jar"},
 
 {"key":"迷你库","name":"迷你库2K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"}, 
@@ -499,9 +514,8 @@
 
 {"key":"csp_XBPQ_处女影视","name":"女女影视","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"https://raw.fgit.cf/qcfree/tvboxzy/main/xbpq/处女影视.json"},
 
-{"key":"csp_XBPQ_处女影视2","name":"女女影视","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./XYQHiker/处女影视.json"},
-
-
+{"key":"csp_XBPQ_处女影视2","name":"女女影视","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"https://raw.fgit.cf/loleis/vvebo/main/XYQHiker/处女影视.json"},
+	
 //P字头
 {"key":"drpy_js_皮皮鸭","name":"影视 | 皮皮鸭[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/皮皮鸭.js"},
 
@@ -681,6 +695,8 @@
 { "key":"速看","name":"🐉速看100", "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sk100.tv/api.php/app/",
 "jar": "http://vip.weixine.link:88/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
 
+{"key":"api.maozyapi.com","name":"数字影院1","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"filterable":1},
+
 {"key":"csp_JRSKan","name":"赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"./XPathFilter/JRSKan.json"},
 
 //T字头
@@ -737,21 +753,7 @@
 
 {"key":"drpy_js_往往影视","name":"²⁰²³往往影视","type":3,"api":"./DRJS/Lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/往往影视.js"},
 
- {
-            "key": "玩偶",
-            "name": "玩偶云盘",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "token": "84cb550b65d74486970d816800463229",
-                "filter": "https://tvbox.cainisi.cf/json/wogg.json"
-            },
-            "jar": "https://tvbox.cainisi.cf/jar/fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf"
-        },
-
-{"key":"csp_XYQHikerAL_玩偶哥哥","name":"玩偶(快)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./XYQHikerAL/玩偶哥哥.json"},
+ 
 
 {
             "key": "万能影院",
