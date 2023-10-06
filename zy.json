@@ -130,7 +130,7 @@
 {"key":"csp_AppYsV2_腐剧","name":"🎅腐剧☆TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
 
 {
-            "key":"drpy_js_┃宅腐┃影视┃会吐",
+            "key":"drpy_js_┃宅腐┃影视",
             "name":"宅腐影视[js]",
             "type":3,
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
