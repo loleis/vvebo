@@ -423,6 +423,18 @@
 
 {"key":"mino4K","name":"²⁰²³mino4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./Spider/fix0929.jar"},
 
+{
+            "key": "drpy_js_moflix影视",
+            "name": "moflix[js]",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://qu.ax/qZmf.js"
+        },
+
 {"key":"迷你库","name":"迷你库2K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"}, 
 
 {"key": "MGT","name": "芒芒","type": 3,"api": "csp_Mtv","searchable": 1,"quickSearch": 1,"filterable": 1},
