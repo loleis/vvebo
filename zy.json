@@ -232,8 +232,10 @@
                 "分类url": "https://www.haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
                 "分类": "电影$1#连续剧$2#综艺$3#动漫$4#B站$5#电影解说$43"
             }
+
         },
 
+{"key":"好戏","name":"好戏影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/好戏影视.json"},
 {"key": "鸿运当头", "name": "鸿运秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://jh.dytt996.com:990/api.php/app/"}, 
 
 {"key":"韩剧网","name":"韩剧影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.tvn.cc/index.php?s=/list-select-id-{cateId}-type--area--year-{year}-star--state--order-hits.html","分类":"韩剧$1#日剧$2#泰剧$3"}},
@@ -286,6 +288,8 @@
 {"key": "js 77","name": "²⁰²³酷云77","type": 3,"api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e9%85%b7%e4%ba%9177.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"酷影","name":"酷影┃影视","type":3,"api":"http://ck.realdou.cn/JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ck.realdou.cn/JS/js/酷影蓝光.js"},
 
 {"key":"看片狂人1","name":"狂人影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-------{catePg}---{year}--.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
 
