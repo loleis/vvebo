@@ -464,6 +464,14 @@
 
 {"key":"迷你库","name":"迷你库2K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"}, 
 
+{
+      "key": "drpy_js_迷你库[V2]",
+      "name": "影视 | 迷你库",
+      "type": 3,
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/迷你库[V2].js"
+    },
+
 {"key": "MGT","name": "芒芒","type": 3,"api": "csp_Mtv","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "modu","name": "魔都资源 ","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
