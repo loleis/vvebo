@@ -501,7 +501,7 @@
 
 {"key":"csp_XBPQ_处女影视2","name":"女女影视","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./XYQHiker/处女影视.json"},
 
-{"key":"csp_XBPQ_处女影视2","name":"女女影视","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./XYQHiker/影视2.json"},
+{"key":"csp_XBPQ_处女影视3","name":"影视2","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./XYQHiker/影视2.json"},
 
 //P字头
 {"key":"drpy_js_皮皮鸭","name":"影视 | 皮皮鸭[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/皮皮鸭.js"},
