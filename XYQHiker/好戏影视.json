@@ -52,7 +52,7 @@
 // "分类url":"https://                          /sgshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;ak",
               "分类url":"https://haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;ak",
     
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#B站$5#电影解说$43#最近更新$https://haoxi.vip/map/#周星驰合集$https://haoxi.vip/topicdetail-1/#周番剧表$https://haoxi.vip/label/weekday/#优质精选$https://haoxi.vip/label/rb/#",
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#B站$5#电影解说$43#最近更新$https://haoxi.vip/map/#周星驰合集$https://haoxi.vip/topicdetail-1/#优质精选$https://haoxi.vip/label/rb/#",
     
     "筛选":{
     "1":[
