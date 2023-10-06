@@ -1,13 +1,60 @@
-{
-"作者":"张弘",
-"站名":"好戏网",
-"主页url":"https://haoxi.vip/",
-"数组":"public-list-exp&&</a>",
-"搜索数组":"public-list-exp\"&&thumb-else cor5 hide&&</a>",
+     {
+    
+    "站名":"好戏影视",
+    
+    "主页url":"https://haoxi.vip/",
+    
+    "简介":"<p>&&</p>",
+    
+    "导演":"导演：&&</li>",
+    
+    "主演":"主演：&&</li>",
+    
+    "影片状态":"状态：&&</li>",
+    
+    "影片类型":"类型：&&</li>",
+    
+    "影片地区":"地区：&&</li>",
+    
+    "影片年代":"年份：&&</li>",
+    
+    "数组":"public-list-exp"&&</div>",
+    
+    "标题":"title=\"&&\"",
+    
+    "副标题":"public-list-prb hide ft2\">&&</span>",
+    
+    "图片":"data-src=\"&&\"",
+    
+    "搜索url":"/vodsearch/-------------/?wd={wd}",
+    
+    "搜索数组":"a target=\"_self\" class=\"public-list-exp\"&&thumb-else cor5 hide\">",
+    
+    "搜索标题":"<a target=\"_self\" href=*>&&</a>",
+    
+    "搜索副标题":"public-list-prb hide ft2\">&&</span>",
+    
+    "搜索图片":"data-src=\"&&\"",
+    
+    "线路数组":"<i class=\"fa ds-dianying\">&&</a>[不包含:好戏4K#好戏HD#好戏蓝光#线路③#线路⑦]",
+    
+    "线路标题":">&&<",
+    
+    "播放数组":"<ul class=\"anthology-list-play size\"&&</ul>",
+    
+    "播放标题":">&&</a>",
+    
+    "播放列表":"<li&&</li>",
+    
+    "线路二次截取":"<div class=\"swiper-wrapper\"&&</div>",
 "影片类型":"分类：&&</p>",
-"分类":"电影$1#电视剧$2#综艺$4#动漫$3#纪录片$5#B站$50#电影解说$57#体育$56#福利电影$https://www.ah121.com/topicdetail-12.html#怪物电影$https://www.ah121.com/topicdetail-11.html#恐怖电影$https://www.ah121.com/topicdetail-10.html#王珞丹电影$https://www.ah121.com/topicdetail-9.html#成龙电影$https://www.ah121.com/topicdetail-8.html#复仇者联盟$https://www.ah121.com/topicdetail-7.html#关晓彤电影$https://www.ah121.com/topicdetail-6.html#刘德华电影$https://www.ah121.com/topicdetail-5.html#景甜电影$https://www.ah121.com/topicdetail-4.html#赵丽颖电影$https://www.ah121.com/topicdetail-3.html#林正英电影$https://www.ah121.com/topicdetail-2.html#李连杰电影$https://www.ah121.com/topicdetail-1.html",
-"分类url":"https://haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;ak",
-"筛选":{
+                                                                       // 7-大陆--喜剧-国语-A------2023/version/高清版/  
+// "分类url":"https://                          /sgshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;ak",
+              "分类url":"https://haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;ak",
+    
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#B站$5#电影解说$43#最近更新$https://haoxi.vip/map/#周星驰合集$https://haoxi.vip/topicdetail-1/#周番剧表$https://haoxi.vip/label/weekday/#优质精选$https://haoxi.vip/label/rb/#",
+    
+    "筛选":{
     "1":[
     {"key":"cateId","name":"分类","value":[
     {"n":"全部分类","v":""},
