@@ -230,7 +230,7 @@
                 "播放列表": "<li&&</li>",
                 "线路二次截取": "<div class=\"swiper-wrapper\"&&</div>",
                 "分类url": "https://www.haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
-               "分类":"电影$1#电视剧$2#综艺$3#动漫$4#B站$5#电影解说$43#最近更新$https://haoxi.vip/map/#周星驰合集$https://haoxi.vip/topicdetail-1/#周番剧表$https://haoxi.vip/label/weekday/#优质精选$https://haoxi.vip/label/rb/#看电视$https://haoxi.vip/viv/index/#",
+                "分类":"电影$1#电视剧$2#综艺$3#动漫$4#B站$5#电影解说$43#最近更新$https://haoxi.vip/map/#周星驰合集$https://haoxi.vip/topicdetail-1/#周番剧表$https://haoxi.vip/label/weekday/#优质精选$https://haoxi.vip/label/rb/#看电视$https://haoxi.vip/viv/index/#",
     
     "筛选":{
     "1":[
@@ -1039,7 +1039,9 @@
     }
     }
     
-            }
+           
+//1
+ //}
 
         },
 
