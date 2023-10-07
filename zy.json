@@ -1164,7 +1164,40 @@
       "filterable": 1,
       "ext": "https://www.66ss.org"
     },
-
+{
+      "ext": "eyJhcGlLZXkiOiI5YzY4ZDE0Zi1mNGFkLTQxMWItOWJlNi04NTM1NmMyMjc5YzYiLCJhcGkiOiJodHRwOi8vMjcuMTQuMTIuMjM0OjQ1NjcifQ==",
+      "filterable": 1,
+      "quickSearch": 1,
+      "name": "💃小雅搜索1♻️",
+      "viewType": {
+        "style": {
+          "type": "rect"
+        }
+      },
+      "changeable": 0,
+      "jar": "http://27.14.12.234:4567/spring.jar",
+      "api": "csp_XiaoYa",
+      "type": 3,
+      "key": "csp_XiaoYa1",
+      "searchable": 1
+    },
+    {
+      "ext": "eyJhcGlLZXkiOiJjYzA1OTA2NS1iOGI3LTQ2ZTEtYWY3NS1jZjQ2Yzk5NDk0ODUiLCJhcGkiOiJodHRwOi8vNDMuMTM4LjE1NS4xNDA6NDU2NyJ9",
+      "filterable": 1,
+      "quickSearch": 1,
+      "name": "💃小雅搜索2♻️",
+      "viewType": {
+        "style": {
+          "type": "rect"
+        }
+      },
+      "changeable": 0,
+      "jar": "http://43.138.155.140:4567/spring.jar",
+      "api": "csp_XiaoYa",
+      "type": 3,
+      "key": "csp_XiaoYa2",
+      "searchable": 1
+    },
 {"key": "csp_New6v","name": "新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com","jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
 
 {"key": "csp_XYQHiker_兄弟影视","name": "²⁰²³兄弟","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/VKDXH8/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86.json",
