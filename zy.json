@@ -304,6 +304,8 @@
 
 {"key":"看片狂人1","name":"狂人影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-------{catePg}---{year}--.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
 
+{"key": "csp_345KP","name": "看片秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"<h3 class=\"title\">&&/h3>[替换:播放线路>>传说接口→线路]","分类url":"https://www.345kp.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak","分类":"电影$1#电视剧$2#综艺$3#动漫$4","筛选":"1","免嗅":"1"}},
+	
 {
     "key": "看片狂人",
     "name": "狂人",
