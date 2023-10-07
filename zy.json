@@ -193,17 +193,7 @@
             "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
         },
 
-{
-      "key": "大哥",
-      "name": "DaGe☆影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playUrl": "https://api.1080kan.cn:4434/json/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://143.64.61.198:4435/xgapp.php/v3/","categories":["电影","电视剧","综艺","动漫","纪录片","其他"]
-    },
+
 	
 {"key": "大鹏","name": "大鹏4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://s.ether-mine.com/api.php/app/"}, 
 
