@@ -10,7 +10,7 @@
     "首页片单列表数组规则": "li",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "https://u.duboku.io/vodshow/{cateId}--{by}------{catePg}---{year}.html",
+    "分类链接": "https://u.duboku.io/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
     "分类名称": "连续剧&综艺&动漫&港剧",
     "分类名称替换词": "2&3&4&20",
     "筛选数据": "ext",
@@ -29,6 +29,9 @@
     //{lang}
     "筛选语言名称": "",
     "筛选语言替换词": "*",
+    //{letter}
+    "筛选字母名称": "",
+    "筛选字母替换词": "*",
     //{by}
     "筛选排序名称": "时间&人气&评分",
     "筛选排序替换词": "time&hits&score",
