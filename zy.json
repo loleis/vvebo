@@ -55,6 +55,22 @@
 
 {"key": "Zhaozy","name": "阿里 ┃ 找片[4K]","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "84cb550b65d74486970d816800463229"},
 
+//数字
+
+	{
+    "key" : "yc",
+    "name" : "4KHDR站-B",
+    "type" : 3,
+    "playerType" : 1,
+    "api" : "csp_Hdhive",
+    "searchable" : 1,
+    "quickSearch" : 1,
+    "filterable" : 0,
+    "ext" : "https://pan.shangui.cc/f/p5RUL/tk.php",
+    "jar" : "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+
+	},
+	
 //A字头
 {"key":"drpy_js_奇珍异兽","name":"²⁰²³爱奇艺官源","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/奇珍异兽.js"},
 
