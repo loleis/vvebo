@@ -561,6 +561,20 @@
 {"key":"csp_MeijuMi","name":"美剧迷","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
 
 {
+      "key": "csp_XBPQ_miniju",
+      "name": "♻️迷迷剧 | 短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
+        "分类": "电影$22#电视剧$21#短剧$20#动漫$23#综艺$24"
+      }
+    },
+	
+{
         "key": "maolv_open",
         "name": "毛驴影视",
         "type": 3,
