@@ -56,7 +56,57 @@
 {"key": "Zhaozy","name": "阿里 ┃ 找片[4K]","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "84cb550b65d74486970d816800463229"},
 
 //数字
+ {
+      "key": "49zy",
+      "name": "♻️49资源",
+      "type": 1,
+      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+"纪录片",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "喜剧片",
+        "动画片",
+        "犯罪片",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "其他片",
+       "欧美剧",
+        "香港剧",
+"国产剧",
+"韩国剧",
+"台湾剧",
+        "泰国剧",
+        
+        "日剧",
+        "海外剧",
+"国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "海外动漫",
+        
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        
+        
 
+        "电影解说",
+        
+        "体育赛事"
+        
+      ]
+    },
 	{
     "key" : "yc",
     "name" : "4KHDR站-B",
@@ -585,6 +635,44 @@
 	"jar":"./Spider/OpenSpider.jar"
 	
     },
+ {
+      "key": "♻️csp_米爱影视",
+      "name": "♻️米爱影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "站名": "米爱影视",
+        "主页url": "https://www.miai9.cc/",
+        "简介": "剧情：&&（米爱影视频+。",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "影片状态": "集数：&&</div>",
+        "影片类型": "video-info-aux scroll-content\">&&立即播放",
+        "数组": "module-item-pic\">&&module-item\">",
+        "标题": "title=\"&&\"",
+        "副标题": "module-item-text\"&&</div>",
+        "图片": "data-src=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索url": "/vodsearch/-------------.html?wd={wd}",
+        "搜索数组": "lazy lazyload\"&&<h3>",
+        "搜索标题": "alt=\"&&\"",
+        "搜索副标题": "<a class=\"video-serial\" href=*>&&</a>",
+        "搜索图片": "data-src=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</small>[替换:HD高清->>高清#</span><small>>>共]+集",
+        "播放数组": "sort-item\"&&</div>",
+        "播放标题": "<span>&&</span>",
+        "播放列表": "<a&&</a>",
+        "分类url": "https://www.miai9.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$32#2023贺岁大片$https://www.miai9.cc/topicdetail-10.html#开心麻花精选$https://www.miai9.cc/topicdetail-6.html#
+漫威系列合集$https://www.miai9.cc/topicdetail-9.html#速度与激情系列合集$https://www.miai9.cc/topicdetail-7.html#碟中谍系列合集$https://www.miai9.cc/topicdetail-8.html#
+奥斯卡电影精选$https://www.miai9.cc/topicdetail-5.html#"
+      }
+    },
 
 //N字头
 {"key":"drpy_Nmys","name":"农民影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/农民影视.js"},
@@ -976,6 +1064,17 @@
 {"key":"drpy_js_往往影视","name":"²⁰²³往往影视","type":3,"api":"./DRJS/Lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/往往影视.js"},
 
 {"key":"蜗牛","name":"蜗牛┃影视","type":3,"api":"csp_XBPQ","ext":{"简介":"class=\"video-info-item video-info-content vod_content\">&&</span>","数组":"class=\"module-item-text\"&&class=\"loading\"","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>[替换:</span><small>>>共]+集","副标题": " class=\"module-item-text\">&&</div>","分类":"电影$1#日韩剧$21#海外剧$2#动漫$20","分类url":"https://v.wuxivlog.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}}, 
+
+ {
+      "key": "♻️dr_武享吧♻️",
+      "name": "♻️武享吧(drpy)",
+      "type": 3,
+      "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://hjdhnx.github.io/dr_py/js/武享吧.js"
+    },
 
 {
             "key": "万能影院",
