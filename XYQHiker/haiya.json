@@ -611,7 +611,8 @@
 {"n":"人气","v":"hits"},
 {"n":"评分","v":"score"}
 ]
-},
+}
+],
 "dongmandianying":[
 {
 "key":"cateId",
