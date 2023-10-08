@@ -1100,7 +1100,7 @@
             "changeable": 1,
             "ext": "https://drpy.cainisi.cf/js/万能影视.js"
         },
-    {
+     {
       "key": "我爱跟剧",
       "name": "♻️我爱跟剧.BPQ",
       "type": 3,
@@ -1115,7 +1115,7 @@
         "图片": "data-src=\"&&\"",
         "链接": "href=\"&&\"",
         "标题": "title=\"&&\"",
-        "分类url": "https://fabu.2ktvb.com/vodshow/{cateId}-{area}-{by}-{class}-{lang-{letter}---{catePg}---{year}.html",
+        "分类url": "https://fabu.2ktvb.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
         "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#音乐$yinyue"
       },
       "jar": "https://pan.shangui.cc/f/15pVFw/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar"
