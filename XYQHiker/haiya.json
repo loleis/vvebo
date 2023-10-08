@@ -1,3 +1,4 @@
+
 {
 "分类url": "https://www.hydy5.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 //"分类": "最新动作片$dongzuopian#最新喜剧片$xijupian#最新爱情片$aiqingpian#最新科幻片$kehuanpian#最新恐怖片$kongbupian#
@@ -611,7 +612,6 @@
 {"n":"评分","v":"score"}
 ]
 },
-        {
 "dongmandianying":[
 {
 "key":"cateId",
