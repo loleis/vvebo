@@ -12,6 +12,7 @@
 {
 "key":"cateId",
 "name":"类型",
+  "value":[
 {"v":"1","n":"全部"},
 {"v":"dongzuopian","n":"动作片"},
 {"v":"xijupian","n":"喜剧片"},
