@@ -1100,7 +1100,18 @@
             "changeable": 1,
             "ext": "https://drpy.cainisi.cf/js/万能影视.js"
         },
-
+   {
+      "key": "我爱跟剧",
+      "name": "♻️我爱跟剧.BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": "2",
+	   "ext":"./XYQHiker/我爱跟剧.json"},
+     // "ext": {"站名": "我爱跟剧", "主页url": "https://fabu.2ktvb.com", "数组": "class=\"module-item-pic\">&&</div", "图片": "data-src=\"&&\"", "链接": "href=\"&&\"", "标题": "title=\"&&\"", "分类url": "https://fabu.2ktvb.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html", "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#音乐$yinyue" },
+      "jar": "https://pan.shangui.cc/f/15pVFw/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar"
+    },
 {"key":"drpy_js_我爱跟剧","name":"影视 | 我爱跟剧[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./XYQHiker/我爱跟剧.json"},
 
 {"key":"csp_XBPQ_歪片星球","name":"歪片星球️","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"https://raw.fgit.cf/qcfree/tvboxzy/main/xbpq/歪片星球.json"},
