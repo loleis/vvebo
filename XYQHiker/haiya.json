@@ -5,7 +5,7 @@
 "搜索数组":"myui-vodlist__thumb&&</a>",
 "影片类型":"分类：&&</p>",
 "分类":"电影$1#电视剧$2#综艺$zongyi#动漫$4#动漫电影$dongmandianying",
-"分类url":"https://www.hydy5.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;ak",
+"分类url":"https://www.hydy5.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 "筛选":
 {
 "1":[
