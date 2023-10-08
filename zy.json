@@ -1108,6 +1108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "playerType": "2",
+	   "jar": "https://pan.shangui.cc/f/15pVFw/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%9410.jar",
 	   "ext":"./XYQHiker/我爱跟剧.json"},
         
 {"key":"drpy_js_我爱跟剧","name":"影视 | 我爱跟剧[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./XYQHiker/我爱跟剧.json"},
