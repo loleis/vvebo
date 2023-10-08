@@ -1,10 +1,12 @@
-
 {
-"分类url": "https://www.hydy5.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-//"分类": "最新动作片$dongzuopian#最新喜剧片$xijupian#最新爱情片$aiqingpian#最新科幻片$kehuanpian#最新恐怖片$kongbupian#
-最新剧情片$juqingpian#最新战争片$zhanzhengpian#最新纪录片$jilupian#最新微电影$weidianying#最新动漫电影$dongmandianying#
-最新国产剧$guochanju#最新香港剧$xianggangju#最新台湾剧$taiwanju#最新韩国剧$hanguoju#最新日本剧$ribenju#最新欧美剧$oumeiju#最新泰国剧$taiguoju#最新海外剧$haiwaiju#最新国产动漫$guochandongman#最新港台动漫$gangtaidongman#最新日韩动漫$rihandongman#最新欧美动漫$oumeidongman#最新海外动漫$haiwaidongman"
-        "分类": "电影$1#电视剧$2#综艺$zongyi#动漫$4#动漫电影$dongmandianying",
+"站名":"嗨呀电影",
+"数组":"myui-vodlist__thumb&&</a>",
+"搜索数组":"myui-vodlist__thumb&&</a>",
+"影片类型":"分类：&&</p>",
+"分类": "电影$1#电视剧$2#综艺$zongyi#动漫$4#动漫电影$dongmandianying",
+"分类url": "https://www.hydy5.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;ak",
+//"分类": "最新动作片$dongzuopian#最新喜剧片$xijupian#最新爱情片$aiqingpian#最新科幻片$kehuanpian#最新恐怖片$kongbupian#最新剧情片$juqingpian#最新战争片$zhanzhengpian#最新纪录片$jilupian#最新微电影$weidianying#最新动漫电影$dongmandianying#最新国产剧$guochanju#最新香港剧$xianggangju#最新台湾剧$taiwanju#最新韩国剧$hanguoju#最新日本剧$ribenju#最新欧美剧$oumeiju#最新泰国剧$taiguoju#最新海外剧$haiwaiju#最新国产动漫$guochandongman#最新港台动漫$gangtaidongman#最新日韩动漫$rihandongman#最新欧美动漫$oumeidongman#最新海外动漫$haiwaidongman"
+        
 "筛选":
 {
 "1":[
@@ -611,8 +613,7 @@
 {"n":"人气","v":"hits"},
 {"n":"评分","v":"score"}
 ]
-}
-],
+},
 "dongmandianying":[
 {
 "key":"cateId",
