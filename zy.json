@@ -762,6 +762,7 @@
 
 {"key":"csp_Yj1211","name":"平台直播","type":3,"api":"csp_Yj1211","playerType":1,"searchable":0,"quickSearch":0,"filterable":1},
 
+{"key":"drpy_js_胖虎","name":"影视 | 胖虎[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/胖虎.js"},
 //Q字头	
 {"key": "csp_XBPQ_全看","name":"全看☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":  {
@@ -1262,6 +1263,7 @@
       "playerType": 1,
       "api": "http://zy.xzam.cn/api.php/provide/vod/"
     },
+{"key":"探探","name":"影探4K[影视]_APP","type":3,"playerType":"1","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://vipcms.lyyytv.cn:80/api.php/app/"},
 
 {"key":"影巢","name":"影巢4k","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/168039/wg.jar?sign=SvNrSl_NQF6Vs-AhEAuL37B0tfuz5CpzM3dSFjnA8Lo%3D%3A0"}, 
 
