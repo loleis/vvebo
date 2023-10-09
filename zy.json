@@ -227,7 +227,7 @@
 
 {"key":"谍战迷","name":"谍战影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.dzmitv.com/phb/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"}},
 
-{"key": "drpy_先生","name": "²⁰²³电影先生","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/电影先生.js"},
+{"key": "drpy_先生","name": "²⁰²³电影先生","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/电影先生.js"},
 
 {"key":"csp_XYQHiker_独播库","name":"²⁰²³独播库","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/独播库.json"},//自加
 
