@@ -2,7 +2,7 @@ muban.mxone5.二级.title='h1&&Text;.video-info-aux&&Text';muban.mxone5.二级.d
 
 var rule={title:'电影先生',
 模板:'mxone5',
-host:'http://dyxs29.com',
+host:'http://dyxs28.com',
 url:'/pianku-fyclassfyfilter/',
 filterable:1,
 filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}----fypage---{{fl.year}}',
