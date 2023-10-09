@@ -22,7 +22,7 @@ var rule={
         2:{cateId:'2'},
         3:{cateId:'3'},
         4:{cateId:'4'},
-         23:{cateId:'23'}
+        5:{cateId:'23'}
     },
     searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
     headers:{
