@@ -1263,7 +1263,7 @@
       "playerType": 1,
       "api": "http://zy.xzam.cn/api.php/provide/vod/"
     },
-{"key":"探探","name":"影探4K[影视]_APP","type":3,"playerType":"1","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://vipcms.lyyytv.cn:80/api.php/app/"},
+{"key":"探探0","name":"影探4K[影视]_APP","type":3,"playerType":"1","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://vipcms.lyyytv.cn:80/api.php/app/"},
 
 {"key":"影巢","name":"影巢4k","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/168039/wg.jar?sign=SvNrSl_NQF6Vs-AhEAuL37B0tfuz5CpzM3dSFjnA8Lo%3D%3A0"}, 
 
