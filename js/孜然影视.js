@@ -21,8 +21,7 @@ var rule={
         1:{cateId:'1'},
         2:{cateId:'2'},
         3:{cateId:'3'},
-        4:{cateId:'4'},
-        5:{cateId:'23'}
+        4:{cateId:'4'}
     },
     searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
     headers:{
