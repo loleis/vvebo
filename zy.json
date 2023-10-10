@@ -139,7 +139,7 @@
             "changeable": 0,
             "ext": {
                 "token": "84cb550b65d74486970d816800463229",
-                "filter": "https://tvbox.cainisi.cf/json/wogg.json"
+                "filter": "./XYQHikerAL/wogg.json"
             },
             "jar": "https://tvbox.cainisi.cf/jar/fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf"
         },
