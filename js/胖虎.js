@@ -5,13 +5,13 @@ muban.mxpro.二级.tabs = '#y-playList .module-tab-item';
 var rule = {
 	title:'胖虎',
 	模板:'mxpro',
-	// host:'http://www.panghuys.com',
-	host:'https://my.cdnkan.top',
+	 host:'http://www.panghuys.com',
+	//host:'https://my.cdnkan.top',
 	// hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(0)&&a&&href");print(src);HOST=src',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(1)&&a&&href");print(src);HOST=src',
 	url:'/vodshow/fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,
-	class_name:'电影&剧集&综艺&动漫&今日更新&https://www.physkan.com/label/new.html#', // 分类筛选 /api.php/app/nav
+	class_name:'电影&剧集&综艺&动漫&今日更新', // 分类筛选 /api.php/app/nav
 	class_url:'1&2&3&4&https://www.physkan.com/label/new.html',
 	filter_url:'{{fl.area}}{{fl.by or "/by/time"}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
 	filter: {
