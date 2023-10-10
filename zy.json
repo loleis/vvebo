@@ -148,7 +148,7 @@
 
 {"key":"csp_Ikun","name":"爱酷(AD)","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产剧","大陆综艺","国产动漫","韩国剧","欧美剧","记录片","动画片"]},
 
-{"key":"drpy_js_爱看","name":"影视 | 爱看[js]","type":3,"api":"https://agit.ai/so/gao/raw/branch/master/lib/drpy2.min.js","ext":"./js/爱看.js"},
+{"key":"drpy_js_爱看","name":"💞影视 | 爱看[js]","type":3,"api":"https://agit.ai/so/gao/raw/branch/master/lib/drpy2.min.js","ext":"./js/爱看.js"},
 	
 {
       "key": "csp_XBPQ_aoaotv",
