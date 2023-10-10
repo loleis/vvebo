@@ -5,8 +5,8 @@ muban.mxpro.二级.tabs = '#y-playList .module-tab-item';
 var rule = {
 	title:'胖虎',
 	模板:'mxpro',
-	 host:'http://www.panghuys.com',
-	//host:'https://my.cdnkan.top',
+	// host:'http://www.panghuys.com',
+	host:'https://my.cdnkan.top',
 	// hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(0)&&a&&href");print(src);HOST=src',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"li:eq(1)&&a&&href");print(src);HOST=src',
 	url:'/vodshow/fyclassfyfilter.html',
