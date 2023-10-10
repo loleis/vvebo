@@ -124,6 +124,8 @@
 //A字头
 {"key":"drpy_js_奇珍异兽","name":"²⁰²³爱奇艺官源","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/奇珍异兽.js"},
 
+{"key":"csp_Hdhive","name":"阿里 | 影巢[jar]","type":3,"api":"csp_Hdhive","jar":"./spider/fm.jar;md5;bdd6ea018f428c52eea3710108efa5d2","searchable":1,"quickSearch":1,"filterable":1,"ext":"","proxy":true,"timeout":30},
+	
 {"key":"玩偶哥哥T4","name":"A秒播推荐","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=84cb550b65d74486970d816800463229","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
 {
             "key": "玩偶",
