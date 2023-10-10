@@ -108,6 +108,9 @@
         
       ]
     },
+
+{"key":"drpy_js_91free","name":"影视 | 91free[js]","type":3,"api":"https://agit.ai/so/gao/raw/branch/master/lib/drpy2.min.js","ext":"./js/91free.js"},
+	
 	{
     "key" : "yc",
     "name" : "4KHDR站-B",
