@@ -172,7 +172,8 @@
 
 {"key":"百川影视","name":"百川[影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bczhuiju.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3"}},
 
-
+{"key":"drpy_js_哔哩兔","name":"影视 | 哔哩兔[js]","type":3,"api":"https://agit.ai/so/gao/raw/branch/master/lib/drpy2.min.js","ext":"./js/哔哩兔.js"},
+	
 {"key":"drpy_Bttoo","name":"宝塔影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/两个bt.js"},
 
 {"key":"csp_293","name":"宝盒4K专区","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"http://52bsj.vip:81/api/v3/file/get/41344/jar0826.jar?sign=ynL7G6jUsM4xB5uXv1Ph-U6_QjzfeRLY0IvJkzErbeI%3D%3A0"},
