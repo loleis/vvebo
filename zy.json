@@ -127,9 +127,7 @@
 
 {"key":"csp_Hdhive","name":"阿里 | 影巢[jar]","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"","proxy":true,"timeout":30},
 
-{"key":"csp_wogg_cli","name":"俊于 |A玩偶[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext": {
-                "token": "84cb550b65d74486970d816800463229",
-                            }, "timeout":30},
+{"key":"csp_wogg_cli","name":"俊于 |A玩偶[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext": "84cb550b65d74486970d816800463229", "timeout":30},
 	
 {"key":"玩偶哥哥T4","name":"A秒播推荐","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=84cb550b65d74486970d816800463229","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":0.75}},
 {
