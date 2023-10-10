@@ -232,6 +232,8 @@
 	
 {"key": "大鹏","name": "大鹏4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://s.ether-mine.com/api.php/app/"}, 
 
+{"key":"drpy_js_大师兄影视","name":"影视 | 大师兄影视[js]","type":3,"api":"https://agit.ai/so/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/so/gao/raw/branch/master/js/大师兄影视.js"},
+	
 {"key": "csp_aidi","name": "²⁰²³迪迪","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 
 {"key":"谍战迷","name":"谍战影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.dzmitv.com/phb/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"}},
