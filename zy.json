@@ -143,7 +143,7 @@
             "jar": "https://tvbox.cainisi.cf/jar/fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf"
         },
 
-"key":"csp_XYQHikerAL_玩偶哥哥","name":"玩偶(快)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./XYQHikerAL/玩偶哥哥.json"},
+{"key":"csp_XYQHikerAL_玩偶哥哥","name":"玩偶(快)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./XYQHikerAL/玩偶哥哥.json"},
 
 {"key":"csp_Ikun","name":"爱酷(AD)","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产剧","大陆综艺","国产动漫","韩国剧","欧美剧","记录片","动画片"]},
 
