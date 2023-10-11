@@ -1172,6 +1172,31 @@
             "ext": "./XYQHiker/吾爱乐器.json",
 	"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
+{
+            "key": "csp_XBPQ_JOJO",
+            "name": "五星推荐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://up.heimao.nl/230623/t5.jar;md5;D10047AD127888E9588E38BDC0817CDD",
+            "ext": {
+                "二次截取": "class=\"content-body\"&&class=\"content-lift\"",
+                "数组": "",
+                "图片": "src=\"&&\"",
+                "标题": "class=\"card-title\">&&\n\n",
+                "副标题": "class=\"item-speed\">&&\n\n",
+                "链接": "href=\"&&\"",
+                "播放数组": "class=\"plyr-sidebar-list&&",
+                "嗅探词": "aliyundrive.net#cn-beijing-data",
+                "搜索url": "https://app.syrme.top/video/search?q={wd}",
+                "分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
+                "分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"
+            },
+            "weight": 98
+        },
+
 //X字头
 {"key":"drpy_js_新片场","name":"新片场","type":3,"api":"./DRJS/Lib/drpy2.min.js","ext":"./DRJS/新片场.js"},//https://agit.ai/so/gao/raw/branch/master/js/新片场.js
 
