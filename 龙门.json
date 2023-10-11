@@ -1,5 +1,5 @@
 {
-"spider":"https://tv.looo.top/app/jar/loamen_spider.jar;md5;a972e8f1a00b229bd9e585a9b910ae41",
+/"spider":"./Spider/fm.jar;md5;bdd6ea018f428c52eea3710108efa5d2",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL20zNS5ncmVsaWdodGluZy5jbi9odG1sL3piMS50eHQ="]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
