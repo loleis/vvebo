@@ -796,6 +796,7 @@
 {"key":"csp_Yj1211","name":"平台直播","type":3,"api":"csp_Yj1211","playerType":1,"searchable":0,"quickSearch":0,"filterable":1},
 
 {"key":"drpy_js_胖虎","name":"影视 | 胖虎[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/胖虎.js"},
+{"key": "csp_XBPQ_胖虎", "name": "👶胖虎☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/胖虎影视.json"},
 //Q字头	
 {"key": "csp_XBPQ_全看","name":"全看☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":  {
@@ -1209,7 +1210,7 @@
 
 { "key":"drpy_js_新视觉影视", "name":"新视觉影视", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/新视觉影视.js" },
 
-{"key": "csp_XBPQ_新视觉","name": "👶视觉☆影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/json/新视觉影院.json"},
+{"key": "csp_XBPQ_新视觉","name": "👶视觉☆影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/新视觉影院.json"},
   {
       "key": "csp_xml_享看",
       "name": "♻️享看.云播",
