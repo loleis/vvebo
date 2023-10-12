@@ -1314,8 +1314,7 @@
 
 {"key":"drpy_js_优酷1","name":"²⁰²³优酷官源","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/优酷.js"},
 
-{"key": "csp_YQKAPP_一起看","name": "‍👶‍一起☆影视","type": 3,"api": "csp_YQKAPP","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-aws.11ty.top","jar": "https://download.kstore.space/download/4927/Axkl/jar/fty0922.jar"},
-
+{"key": "csp_YQKan_一起看","name": "👶一起☆TV","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {
       "key": "yp",
       "name": "²⁰²³YP",
