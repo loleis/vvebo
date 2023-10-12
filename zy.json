@@ -443,6 +443,8 @@
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_Kunyu77_七七","name":"👶酷云☆七七","type":3,"api":"csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key":"酷影","name":"酷影┃影视","type":3,"api":"http://ck.realdou.cn/JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ck.realdou.cn/JS/js/酷影蓝光.js"},
 
 {"key":"看片狂人1","name":"狂人影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-------{catePg}---{year}--.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
@@ -1312,7 +1314,9 @@
 
 {"key":"drpy_js_优酷1","name":"²⁰²³优酷官源","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/优酷.js"},
 
- {
+{"key": "csp_YQKAPP_一起看","name": "‍👶‍一起☆影视","type": 3,"api": "csp_YQKAPP","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-aws.11ty.top","jar": "https://download.kstore.space/download/4927/Axkl/jar/fty0922.jar"},
+
+{
       "key": "yp",
       "name": "²⁰²³YP",
       "type": 1,
