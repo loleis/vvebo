@@ -475,16 +475,16 @@
 {
     "key": "csp_XYQHiker_JOJO",
     "name": "JOJO┃",
-	"jar": "./spider/1012.jar",
+	
     "type": 3,
     "api": "csp_XYQHiker",
     "playerType": 1,
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "./XYQHiker/JOJO.json"
+    "ext": "./XYQHiker/JOJO.json",
     //"jar": "./spider/Hk.jar"
-    
+ "jar": "./spider/1012.jar"  
 },
 {
             "key": "荐片",
