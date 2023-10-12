@@ -277,7 +277,9 @@
 {"key":"drpy_Czzy03","name":"厂长影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/changzhang.js"},
 
 {"key": "火狐","name": "茶杯狐","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","伦理片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
-
+{"key": 
+	"csp_XBPQ_策驰","name":"👶策驰☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":  {"分类url":"https://www.cecidy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html" ,"分类": "电影$1#剧集$2#综艺$3#动漫$4"}},
+	
 {"key":"drpy_js_创艺影视[V2]","name":"影视 | 创艺影视[V2]","type":3,"api":"https://agit.ai/so/gao/raw/branch/master/lib/drpy2.min.js","ext":"./js/创艺影视[V2].js"},
 
 {"key":"drpy_js_创艺影视","name":"影视 | 创艺影视[js]","type":3,"api":"https://agit.ai/so/gao/raw/branch/master/lib/drpy2.min.js","ext":"./js/创艺影视.js"},
@@ -574,6 +576,9 @@
 
 { "key":"drpy_js_LIBVIO", "name":"²⁰²³LIBVIO", "type":3, "api":"./DRJS/Lib/drpy2.min.js", "ext":"./DRJS/LIBVIO.js" },
 
+{"key": "csp_XBPQ_Libvio","name":"👶Lib☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":  {"分类url":"https://www.libvio.pro/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html" ,"分类": "电影$1#剧集$2#动漫$4#即将上映$27#日韩剧$15#欧美剧$16"}},
+
+
 {"key": "csp_XYQHiker_COKEMV影院","name": "²⁰²³乐乐","type": 3,"api": "csp_XYQHiker","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/2mPvcx/COKEMV%E5%BD%B1%E9%99%A2.json",
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
 
@@ -724,6 +729,8 @@
 {"key": "MGT","name": "芒芒","type": 3,"api": "csp_Mtv","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "modu","name": "魔都资源 ","type": 1,"api": "https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
+
+{"key": "csp_XBPQ_明帝", "name": "👶明帝☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":  {"分类url": "https://ys.md214.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#综艺$3#动漫$4"}},
 
 {"key":"csp_AppMr","name":²⁰²³"明明","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/119809/0329.jar?sign=X74NXtsF7xr1JgPXZky_lgR56WDsUVYzWj1I4gNRo7c%3D%3A0"},//明明
 
@@ -966,6 +973,7 @@
 //R字头
 {"key":"csp_XYQHiker_人人影视PRO","name":"人人影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/人人影视PRO.json"},
 
+{"key": "csp_XBPQ_热播", "name": "👶热播☆之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4927/Axkl/json/热播之家.json"},
 {
       "key": "csp_XYQHiker_锐行加速影院",
       "name": "²⁰²³♻️锐行",
@@ -986,6 +994,8 @@
 {"key":"sohu","name":"²⁰²³搜狐(秒播)","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/sohu","searchable":1,"quickSearch":1,"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 
 {"key":"csp_SeedHub","name":"SeedHub","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
+
+{"key": "csp_XBPQ_速映", "name": "👶速映☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":  {"分类url": "https://www.suying.lol/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5"}},
 
 {
        "key":"ssys_sstv",
@@ -1170,6 +1180,8 @@
 //V字头
 {"key":"csp_Voflix","name":"²⁰²³Voflix",
 "type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"jar": "./Spider/fan.txt"},
+
+{"key": "csp_XBPQ_Voflix","name": "👶Voflix☆影视","type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://download.kstore.space/download/4927/Axkl/json/Voflix.json"},
 
 {"key":"csp_XBPQ_voflix HD","name":"voflix HD","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"https://raw.fgit.cf/qcfree/tvboxzy/main/xbpq/voflix.json"},
 
@@ -1477,6 +1489,9 @@
 {"key":"追忆影视","name":"追忆影视","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"./Spider/fix0929.jar"},
 
 {"key": "drpy_追忆","name": "👶追忆☆影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/追忆影视.js"},
+{"key": "csp_XBPQ_指尖","name":"👶指尖☆电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":  {"分类url":"http://47.242.17.56/index.php/vod/show/id/{cateId}/page/{catePg}.html" ,"分类": "电影$1#连续剧$2#综艺$3#动漫$4"}},
+
+{"key": "csp_XBPQ_臻品","name":"👶臻品☆电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":  {"分类url":"https://www.zpcxb.com/zptop/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html" ,"分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
 
 {"key":"drpy_Zxzj","name":"在线之家","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/在线之家.js"},
 
