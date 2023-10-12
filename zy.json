@@ -464,6 +464,19 @@
 {"key": "csp_XBPQ_91","name": "👶九一☆影院","type": 3,"api": "csp_XBPQ","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/json/91影院.json"},
 
 {
+    "key": "csp_XYQHiker_JOJO",
+    "name": "JOJO┃",
+    "type": 3,
+    "api": "csp_XYQHiker",
+    "playerType": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./XYQHiker/JOJO.json",
+    //"jar": "./spider/Hk.jar"
+    "jar": "./spider/1012.jar"
+},
+{
             "key": "荐片",
             "name": "²⁰²³荐片影视",
             "type": 3,
