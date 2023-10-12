@@ -108,6 +108,9 @@
         
       ]
     },
+
+{"key": "csp_XBPQ_555","name": "👶555☆电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/json/555电影.json"},
+	
 {"key":"drpy_js_69美剧[V2]","name":"影视 | 69美剧[V2]","type":3,"api":"https://agit.ai/so/gao/raw/branch/master/lib/drpy2.min.js","ext":"./js/69美剧[V2].js"},
 
 {"key":"csp_xBPQ_8090","name":"8090","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
@@ -254,6 +257,8 @@
 	
 {"key":"drpy_Bttoo","name":"宝塔影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/两个bt.js"},
 
+{"key": "csp_XBPQ_北川","name":"👶北川☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":  {"分类url": "https://www.bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}","分类": "电影$1#剧集$2#综艺$3#动漫$4"}},
+	
 {"key":"csp_293","name":"宝盒4K专区","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"http://52bsj.vip:81/api/v3/file/get/41344/jar0826.jar?sign=ynL7G6jUsM4xB5uXv1Ph-U6_QjzfeRLY0IvJkzErbeI%3D%3A0"},
 
 { "key": "bulei_open", "name": "²⁰²³布雷", "type": 3, "api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext": "./DRJS/bulei_open.js"},
@@ -352,6 +357,9 @@
     },
 
 {"key":"csp_XBPQ_大米星球","name":"大米星球","type": 3,"api": "csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext": "https://raw.fgit.cf/qcfree/tvboxzy/main/xbpq/大米星球xbpq.json"},
+
+{"key": "csp_XBPQ_低端","name": "👶低端☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/json/低端影视.json"},
+	
 //E字头
 {"key": "Qtv","name": "鹅鹅","type": 3,"api": "csp_Qtv","searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -364,8 +372,11 @@
 "categories": [  "国产动漫",  "日韩动漫",  "国产剧",  "韩国剧",  "日本剧",  "电影片",  "连续剧",  "综艺片",  "动漫片",  "动作片",  "喜剧片",  "爱情片",  "科幻片",  "恐怖片",  "剧情片",  "战争片",
 "香港剧",  "欧美剧",  "记录片",  "台湾剧",  "海外剧",  "泰国剧",  "大陆综艺",  "港台综艺",  "日韩综艺",  "欧美综艺",  "欧美动漫",  "港台动漫",  "海外动漫"], "jar": "https://pan.shangui.cc/f/BznXUp/fm0603.jar"},
 
+{"key": "csp_XBPQ_FreeOK","name": "👶Free☆OK","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/json/FreeOK.json"},
+	
 {"key":"非凡资源","name":"新添加非凡资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/ffzy.json"},
-
+{"key": "csp_XBPQ_非凡","name": "👶非凡☆资源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/json/非凡资源.json"},
+	
 {"key":"csp_AppYsV2_腐剧","name":"🎅腐剧☆TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
 
 {
@@ -380,6 +391,8 @@
         },
 {"key":"蜜蜂资源","name":"蜜蜂资源","type":1,"api":"https://www.beeyao.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","大陆综艺","国产动漫","日韩综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","悬疑片","犯罪片","动画片","奇幻片","港台剧","欧美剧","日韩剧","其他剧"]},
 //G字头
+{"key": "csp_XBPQ_光棍", "name": "👶光棍☆影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/json/光棍影院.json"},
+	
 {
       "key": "gym",
       "name": "光影猫",
@@ -428,11 +441,14 @@
     //2  }
    //2 },            
 {"key":"好戏","name":"好戏影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/好戏影视.json"},
+
 {"key": "鸿运当头", "name": "鸿运秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://jh.dytt996.com:990/api.php/app/"}, 
 
 {"key":"韩剧网","name":"韩剧影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.tvn.cc/index.php?s=/list-select-id-{cateId}-type--area--year-{year}-star--state--order-hits.html","分类":"韩剧$1#日剧$2#泰剧$3"}},
 
 {"key": "黄黄","name": "²⁰²³黄黄","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
+
+{"key": "csp_XBPQ_黑影", "name": "👶黑影☆剧院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":  {"分类url": "http://tv.hyjy666.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/letter/{letter}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
 
 //I字头
 {"key":"csp_Ikanbot","name": "²⁰²³Ikanbot直连","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1, "jar":"http://tv.nxog.top/m/jar.php?id=ou;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
@@ -443,6 +459,8 @@
 {"key":"drpy_Rinhome","name":"荐片蓝光","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./DRJS/荐片0726.js"},
 
 {"key":"drpy_js_九酷影院","name":"DRPY┃九酷影院","type":3,"api":"http://dm.abuhu.com/box/app/js/lib/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://dm.abuhu.com/box/app/js/九酷.js"},
+
+{"key": "csp_XBPQ_91","name": "👶九一☆影院","type": 3,"api": "csp_XBPQ","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/json/91影院.json"},
 
 {
             "key": "荐片",
@@ -590,6 +608,8 @@
 
 {"key":"drpy_js_LIBVIO","name":"DRPY┃荔波影视","type":3,"api":"http://dm.abuhu.com/box/app/js/lib/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://dm.abuhu.com/box/app/js/LIBVIO.js"},
 
+{"key": "csp_XBPQ_来米","name": "👶来米☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/json/来米影视.json"},
+
 {
             "key": "莱米1",
             "name": "莱米┃BPQ",
@@ -646,7 +666,7 @@
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
 
 {"key":"csp_Lziapi","name":"量子(AD)","type":"1","api":"https://cj.lziapi.com/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["电影","国产剧","韩国剧"]},
-
+{"key": "csp_XBPQ_量子","name": "👶量子☆资源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/json/量子资源.json"},
    {
       "key": "drpy_js_量子影视",
       "name": "影视 | 量子影视",
@@ -1173,6 +1193,7 @@
             "changeable": 1,
             "ext": "./js/TVB云播.js"
         },
+{"key": "csp_XBPQ_TVB", "name": "👶TVB☆云播","type": 3,"api": "csp_XBPQ","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/json/tvb.json"},
 
 //U字头
 {"key":"drpy_js_UM电影[V2]","name":"²⁰²³UM电影[V2]","type":3,"api":"https://raw.fgit.cf/loleis/yyfx/main/lib/drpy2.min.js","ext":"https://raw.fgit.cf/loleis/yyfx/main/js/UM电影[V2].js"},
@@ -1401,10 +1422,15 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
       "ext": "./js/小苹果.js"
     },
+
+{"key": "csp_XBPQ_熊猫", "name": "👶熊猫☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":  {"分类url": "https://xmvod520.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$52#电视剧$69#动漫$75#综艺$77"}},
+
 //Y字头
 {"key": "drpy_js_优酷","name": "²⁰²³优酷","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/8g3Io/youkudachang.js"},
 
 {"key":"drpy_js_优酷1","name":"²⁰²³优酷官源","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/js/优酷.js"},
+
+{"key":"csp_AppYsV2_YuMi","name":"👶YuMi☆影视","type":3,"api":"csp_AppYsV2","playerType":2,"playUrl":"parse:玉米","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.12.21.186/api.php/app/","categories":["电影","电视剧","综艺","动漫","国产剧"]},
 
 {"key": "csp_YQKan_一起看","name": "👶一起☆TV","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {
