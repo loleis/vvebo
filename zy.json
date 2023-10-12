@@ -925,7 +925,19 @@
 {"key":"csp_Yj1211","name":"平台直播","type":3,"api":"csp_Yj1211","playerType":1,"searchable":0,"quickSearch":0,"filterable":1},
 
 {"key":"drpy_js_胖虎","name":"影视 | 胖虎[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/胖虎.js"},
+
 {"key": "csp_XBPQ_胖虎", "name": "👶胖虎☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/胖虎影视.json"},
+{
+            "key": "PT",
+            "name": "葡萄Ⅲ短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "数组": "class=\"stui-vodlist__box&&</li",
+                "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+                "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+            }
+        },
 //Q字头	
 {"key": "csp_XBPQ_全看","name":"全看☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":  {
@@ -1449,6 +1461,19 @@
 
 {"key": "csp_XBPQ_熊猫", "name": "👶熊猫☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":  {"分类url": "https://xmvod520.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$52#电视剧$69#动漫$75#综艺$77"}},
 
+{
+            "key": "小蜗",
+            "name": "小蜗〓BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.yizhiwo.cc/vodshow/{cateId}--{area}------{catePg}---{year}.html;;au0",
+                "嗅探词": "xunlei.com#m3u8#.mp4",
+                "分类": "电影$1#电视剧$20#动漫$3#综艺$4",
+                "搜索模式": "1",
+                "搜索url": "https://www.yizhiwo.cc/vodsearch/-------------.html?wd={wd}"
+            }
+        },
 //Y字头
 {"key": "drpy_js_优酷","name": "²⁰²³优酷","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/8g3Io/youkudachang.js"},
 
