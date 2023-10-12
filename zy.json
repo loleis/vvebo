@@ -1209,6 +1209,7 @@
 
 { "key":"drpy_js_新视觉影视", "name":"新视觉影视", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/新视觉影视.js" },
 
+{"key": "csp_XBPQ_新视觉","name": "👶视觉☆影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/json/新视觉影院.json"},
   {
       "key": "csp_xml_享看",
       "name": "♻️享看.云播",
