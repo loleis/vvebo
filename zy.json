@@ -299,7 +299,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
+{"key":"蜜蜂资源","name":"蜜蜂资源","type":1,"api":"https://www.beeyao.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","大陆综艺","国产动漫","日韩综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","悬疑片","犯罪片","动画片","奇幻片","港台剧","欧美剧","日韩剧","其他剧"]},
 //G字头
 {
       "key": "gym",
