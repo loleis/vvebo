@@ -58,6 +58,20 @@
 {"key": "Zhaozy","name": "阿里 ┃ 找片[4K]","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "84cb550b65d74486970d816800463229"},
 
 //数字
+  {
+            "key": "360弹幕版",
+            "name": "360〓弹幕",
+            "type": 3,
+            "api": "csp_Sp360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://jiucen.s3-us-east-1.ossfiles.com/ok.jar",
+            "ext": {
+                "danmu": true
+            }
+        },
+	
  {
       "key": "49zy",
       "name": "♻️49资源",
