@@ -1149,6 +1149,14 @@
 {"key": "csp_XYQHiker素白白","name": "²⁰²³素白白","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/pvghL/%E7%B4%A0%E7%99%BD%E7%99%BD.json",
 "jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
 
+{
+      "key": "drpy_js_素白白",
+      "name": "影视 | 素白白",
+      "type": 3,
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/素白白.js"
+    },
+
 {"key": "Xinsj","name": "²⁰²³视觉","type": "3","api": "csp_Xinsj","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://www.6080yy3.com"},
 
 {
