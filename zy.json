@@ -231,6 +231,26 @@
 
 {"key":"csp_XYQHikerAL_玩偶哥哥","name":"玩偶(快)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"./XYQHikerAL/玩偶哥哥.json$$$http://www.wogg.xyz:2052/"},
 
+{
+      "key": "csp_爱影视",
+      "name": "爱影视┃",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+      "style":{ "type":"oval","ratio": 0.75},
+      "ext": {
+        "线路数组":"class=\"module-tab-item&&</div>[不包含:线路]",
+	   "线路标题":"<span>&&</small>[替换:</span><small>>>✮更新]",
+	   "播放标题": "<span>&&</span>",
+       "播放列表": "<a&&</a>",
+       "播放数组": "class=\"module-blocklist&&</div>",
+        "分类url":"https://aiyingshis.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+        "分类": "蓝光$37#电影$1#连续剧$2#综艺$3#动漫$4" 
+      }
+},
+
 {"key":"csp_Ikun","name":"爱酷(AD)","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产剧","大陆综艺","国产动漫","韩国剧","欧美剧","记录片","动画片"]},
 
 {"key":"drpy_js_爱看","name":"💞影视 | 爱看[js]","type":3,"api":"https://agit.ai/so/gao/raw/branch/master/lib/drpy2.min.js","ext":"./js/爱看.js"},
