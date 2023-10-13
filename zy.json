@@ -1613,7 +1613,20 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
+//资源
+{"key": "xml_暴风", "name": "👶暴风☆采集", "type": 1, "api": "https://yk.shaozeyy.com/api.php/provide/vod/from/bfzym3u8","searchable": 1,"quickSearch":1,"changeable":1}, 
+{"key": "xml_轻简","name":"👶轻简☆采集","type": 1,"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"categories": ["电影","电视剧","综艺","动漫"]}, 
+{"key": "xml_火狐","name": "👶火狐☆采集","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片",
+"恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
+{"key": "xml_极速","name":"👶极速☆采集","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"quickSearch":1,"changeable":1,"categories": ["体育赛事","动作片","喜剧片","爱情片","剧情片",
+"科幻片","恐怖片","战争片","灾难片","悬疑片","犯罪片","奇幻片","记录片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","动画片","中国动漫","日本动漫","欧美动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]}, 
+{"key": "xml_四九","name":"👶四九☆采集","type": 1,"api": "https://49zyw.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"changeable":1,"categories": ["电影解说","动作片","喜剧片","爱情片","剧情片","科幻片",
+"恐怖片","战争片","灾难片","悬疑片","犯罪片","奇幻片","纪录片","其他片","国产剧","香港剧","台湾剧","日剧","韩国剧","欧美剧","泰国剧","海外据","动画片","国产动漫","日本动漫","欧美动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},  
+{"key": "xml_享看","name":"👶享看☆采集","type": 1,"api": "https://xkanzy10.com/api.php/provide/vod","searchable":1,"quickSearch":1,"changeable":1}, 
+{"key":"xml_快帆","name":"👶快帆☆采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"changeable":1,"categories":["国产剧",
+"短片","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","大陆综艺","港台综艺","日韩综艺"]},
+{"key": "xml_影图","name":"👶影图☆采集","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"changeable":1},
+{"key": "xml_搜狐","name":"👶搜狐☆采集","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","playUrl":"parse:大厂","searchable": 1,"quickSearch": 1,"changeable":1},
 
 {"key":"csp_Local","name":"本地视频","type":3,"api":"csp_Local","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"type_flag":0},
 {"key":"push_agent","name":"链接推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"84cb550b65d74486970d816800463229"}],
