@@ -124,7 +124,7 @@
       ]
     },
 
-{"key": "csp_XBPQ_555","name": "👶555☆电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/json/555电影.json"},
+{"key": "csp_XBPQ_555","name": "👶555☆电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/555电影.json"},
 	
 {"key":"drpy_js_69美剧[V2]","name":"影视 | 69美剧[V2]","type":3,"api":"https://agit.ai/so/gao/raw/branch/master/lib/drpy2.min.js","ext":"./js/69美剧[V2].js"},
 
