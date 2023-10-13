@@ -506,6 +506,7 @@
     //"jar": "./spider/Hk.jar"
  "jar": "./spider/1012.jar"  
 },
+
 {
             "key": "荐片",
             "name": "²⁰²³荐片影视",
@@ -1634,6 +1635,26 @@
             "filterable": 1
         },
 //资源
+ {
+            "key": "官源采集",
+            "name": "官源采集",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://106.52.241.21:83/api.php/app/"
+        },
+        {
+            "key": "腾讯采集",
+            "name": "腾讯采集",
+            "type": 1,
+            "playerType": 2,
+            "api": "http://119.91.31.224:89/itvbox/qq.php",
+            "searchable": 1,
+            "quickSearch": 1
+        },
 {"key": "xml_暴风", "name": "👶暴风☆采集", "type": 1, "api": "https://yk.shaozeyy.com/api.php/provide/vod/from/bfzym3u8","searchable": 1,"quickSearch":1,"changeable":1}, 
 {"key": "xml_轻简","name":"👶轻简☆采集","type": 1,"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"categories": ["电影","电视剧","综艺","动漫"]}, 
 {"key": "xml_火狐","name": "👶火狐☆采集","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片",
