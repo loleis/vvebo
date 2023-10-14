@@ -1,7 +1,7 @@
 {
   //"spider": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/jar/fan10051.jar;md5;3a0def7ac5acaf4b84610d483c0cdb24",
-	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e60ee56ecb22ea3575471e7dd9e0c338",
-	
+	//"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e60ee56ecb22ea3575471e7dd9e0c338",
+"spider":"./Spider/fan.txt;md5;f20b74480c058b1ff6236601f92d65a8"	
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
   {
