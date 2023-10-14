@@ -58,6 +58,16 @@
 {"key": "Zhaozy","name": "阿里 ┃ 找片[4K]","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "84cb550b65d74486970d816800463229"},
 
 //数字
+{
+            "key": "csp_AppYsV2_4K视界",
+            "name": "4K视界(APP)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yycms.77ev.cn/api.php/app/"
+        },
 
 	{
             "key": "1080b",
