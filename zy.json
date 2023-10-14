@@ -68,7 +68,7 @@
             "filterable": 1,
             "ext": "http://yycms.77ev.cn/api.php/app/"
         },
-
+{"key": "drpy_4k视界","name": "测试☆4k视界","type": 3,"api": "./drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/4k视界.js"},
 	{
             "key": "1080b",
             "name": "1080P站-B",
