@@ -1384,7 +1384,7 @@
             "key": "土豪",
             "name": "土豪┃BPQ",
             "type": 3,
-            "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            //"jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;m",
@@ -1402,7 +1402,8 @@
                 "搜索链接": "href=\"&&\""
             }
         },
-{"key":"csp_土豪","name":"💲土豪┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/164675/83thys.txt?sign=YYB_yaUwaVo0WSeKo-OmNyIag5-AYXEa4bnduxfoEL0%3D%3A0"},
+{"key":"csp_土豪","name":"💲土豪┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":"http://52bsj.vip:81/api/v3/file/get/164675/83thys.txt?sign=YYB_yaUwaVo0WSeKo-OmNyIag5-AYXEa4bnduxfoEL0%3D%3A0"},
 {
             "key": "TVB云播",
             "name": "💞TVB影视",
