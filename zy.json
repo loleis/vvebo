@@ -1384,7 +1384,7 @@
             "key": "土豪",
             "name": "土豪┃BPQ",
             "type": 3,
-            //"jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;m",
