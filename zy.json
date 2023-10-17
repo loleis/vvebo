@@ -1271,10 +1271,10 @@
         "搜索副标题": "\"website\":\"&&\"",
         "搜索链接": "https://www.sstv.fun/v_+\"url\":\"https://www.sstv.fun/project-&&.html\"+_1_1.html",
         "分类url": "https://www.sstv.fun/vodshow-{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html;;a",
-        "分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录$21"
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录$21#排行榜$https://www.sstv.pw/label/rank.html"
       }
     },
-{"key": "速搜", "name": "💫速度搜索", "type": 3, "api": "csp_XBPQ","playerType":1,"jar":"https://pan.shangui.cc/f/QGARSm/2.jar","ext": "https://download.kstore.space/download/4127/js/速搜.json"},
+{"key": "速搜2", "name": "💫速度搜索", "type": 3, "api": "csp_XBPQ","playerType":1,"jar":"https://pan.shangui.cc/f/QGARSm/2.jar","ext": "https://download.kstore.space/download/4127/js/速搜.json"},
 {
             "key": "csp_CandyMuj_sstv",
             "name": "²⁰²³速搜影院(4K)",
