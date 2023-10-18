@@ -1,11 +1,11 @@
 {
 "作者":"张弘",
 "站名":"可可影视",
-"数组":"v-item-footer&&</a>",
-"搜索数组":"v-item-footer&&</a>",
+"数组":"v-item-main&&</a>",
+"搜索数组":"v-item-main&&</a>",
 "影片类型":"分类：&&</p>",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4#Netflix$https://www.frwve.cn/label/netflix.html",
-"分类url":"https://www.frwve.cn/show/{cateId}-{area}-{by}-{lang}-{letter}-{catePg}-{year}-1.html;;ak",
+"分类":"电影$1#电视剧$2#综艺$4#动漫$3#Netflix$https://www.frwve.cn/label/netflix.html",
+"分类url":"https://www.frwve.cn/show/{cateId}-{area}-{by}-{lang}-{letter}-{catePg}-{year}-1.html",
 "筛选":
 {
 "1":[
