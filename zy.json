@@ -775,7 +775,7 @@
 
 {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 
-{"key":"csp_XBPQ_可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./XYQHiker/处女影视.json"},
+{"key":"csp_XBPQ_可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./XYQHiker/可可影视.json"},
 
 //L字头
 {"key": "drpy_Bttwo","name": "²⁰²³两个BT影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/两个BT.js"},
