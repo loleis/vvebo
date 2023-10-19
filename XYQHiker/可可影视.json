@@ -4,9 +4,9 @@
     
     "简介":"详情：</span>&&<div class=\"detail-desc",
     
-    "导演":"导演：&&<div class="detail-info-row-side">",
+    "导演":"导演：&&</li>",
     
-    "主演":"主演：&&<div class="detail-info-row-side">",
+    "主演":"主演：&&</li>",
     
     "影片状态":"状态：&&<div class="detail-info-row-side">",
     
