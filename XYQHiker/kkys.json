@@ -18,7 +18,7 @@
     
     "影片年代":"年份：&&</li>",
     
-    "数组": "v-item-main"&&</div>",
+    "数组": "v-item-main&&</div>",
     
     "标题":"title=\"&&\"",
     
@@ -28,7 +28,7 @@
     
     "搜索url":"/search?os=pc&k={wd}",
     
-    "搜索数组":"search-result-item-ctn&&search-result-item">",
+    "搜索数组":"search-result-item-ctn&&search-result-item",
     
     "搜索标题":" title&&</div>",
     
