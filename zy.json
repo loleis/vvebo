@@ -776,6 +776,7 @@
 {"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 
 {"key":"csp_XBPQ_可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./XYQHiker/可可影视.json"},
+{"key":"csp_XBPQ_可可影视2","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./XYQHiker/kkys.json"},
 
 //L字头
 {"key": "drpy_Bttwo","name": "²⁰²³两个BT影视","type": 3,"api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4927/Axkl/js/两个BT.js"},
@@ -967,6 +968,8 @@
 {"key":"csp_MeijuTT","name":"美剧天堂","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
 
 {"key":"csp_MeijuMi","name":"美剧迷","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
+
+{"key":"mogu","name":"蘑菇","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.180.204.151:82/api.php/v1.vod"},
 
 {
       "key": "csp_XBPQ_miniju",
@@ -1923,7 +1926,7 @@
     "url": "https://cn-beijing-data.aliyundrive.net/8l3zTYMC%2F72353131%2F6527c3d89e3070df8c704fbaaa3d435d5a0f3fc5%2F6527c3d8aab0405a6e8c432c9c7c42e646414b43?di=bj29&dr=496441223&f=652b71d339bc2840febd4b46b2398e528198c8f5&security-token=CAIS%2BgF1q6Ft5B2yfSjIr5fsc9ODiY57go7dRVDJhnAxXe1NvL3%2BiDz2IHFPeHJrBeAYt%2FoxmW1X5vwSlq5rR4QAXlDfNR6bZjqMqFHPWZHInuDox55m4cTXNAr%2BIhr%2F29CoEIedZdjBe%2FCrRknZnytou9XTfimjWFrXWv%2Fgy%2BQQDLItUxK%2FcCBNCfpPOwJms7V6D3bKMuu3OROY6Qi5TmgQ41Uh1jgjtPzkkpfFtkGF1GeXkLFF%2B97DRbG%2FdNRpMZtFVNO44fd7bKKp0lQLukMWr%2Fwq3PIdp2ma447NWQlLnzyCMvvJ9OVDFyN0aKEnH7J%2Bq%2FzxhTPrMnpkSlacGoABZcQC9cV2F3HmZyVoTxfYzzGFTWvisk7mQSMNQjPvxBgVwVZmHpFcDuMna7zuuNPEUf5VudNuSXKprErk1Iu7NPBpoanEqI%2B4%2BWGsYPrK5a1HCS9WMFDreJdZL2MLIDVLzZ2jQMONN59N3671XCX%2BsVT5fjCsRfkzZ8uELJf70d4gAA%3D%3D&u=254808010963075794&x-oss-access-key-id=STS.NTY8i7dQZ5L6GvxbpdQbaSxUj&x-oss-expires=1697346903&x-oss-signature=n7KGHSLxJwq5%2BmmRcF0IagQqFIFVBg7mYGbfJrsHUVQ%3D&x-oss-signature-version=OSS2"
 }
 	*/
-	
+{"name":"可米","type":1,"url":"https://jx.kemi.lol/api/?key=5AQShj9O9os1TOtUDj&url=","header":{"User-Agent":"Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 MUOUAPP/10.8.4506.400"},"ext": {"flag": ["kemi"]}},	
 	{
             "name": "1080P_HDR",
             "type": 1,
