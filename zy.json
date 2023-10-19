@@ -848,6 +848,8 @@
 
 {"key":"csp_XYQHiker_乐猪影视","name":"乐猪影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"ext":"./XYQHiker/乐猪TV.json"},
 
+{"key": "宝仙","name": "²⁰²³宝仙","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/baoxian.json"},
+
 {
       "key": "落落",
       "name": "️♻️落落APP",
